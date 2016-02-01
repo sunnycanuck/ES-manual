@@ -26,14 +26,14 @@ para ser detectada con la tecnología actual. A pesar de que no puede ser detect
 manera, dicha materia oscura se puede deducir a partir de los efectos gravitacionales que
 causa en la materia visible.
 
-Según estudios de la nasa la composición del universo se puede describir de la siguiente manera:
+Según estudios de la NASA la composición del universo se puede describir de la siguiente manera:
 solo el 4.6 por ciento de átomos, 23.3 por ciento de materia oscura y finalmente, 72.1 de energía
 oscura.
 
 La gravedad es un factor importante en lo que respecta al tema de materia y energía oscura, ya que
 hace apenas unas décadas se logró comprender que toda la materia contenida en el universo estaba en
 constante movimiento, que posee una velocidad y que continuamente esta en expansión, pero que debido
-a la fuerza de gravedad se mantiene unida y atraida entre sí. 
+a la fuerza de gravedad se mantiene unida y atraída entre sí. 
 
 
 Una de las primeras personas en hablar sobre la composición del universo fue Albert Einstein, 
@@ -88,6 +88,14 @@ con las reservas de combustibles fósiles no es la cantidad que queda ni el tiem
 que nos queda de uso, sino el costo para extraerlos.
 Según la CME *Comisión Mundial de Energía*, quien es una institución aprobada por la ONU,
 la reserva de Gas Natural es de 209741.9 bcm. 
+
+###ENERGÍA SOLAR EN MÉXICO
+En el año 2012, egún datos de *CIA World Factbook*, el consumo de energía anual global fue de
+19.71 trillones de Kwh. Como se mencionó anteriormente, tan solo en México se consumieron 212.3 miles de millones
+de Kwh hasta Julio del año pasado. En 2014 la energía solar fotovoltaíca, registro un estimado de 40 Gw instalados,
+con una capacidad mundial de 117 Gw. Según la Asociación Nacional de Energía Solar *ANES*, México recibe en promedio
+5 {$$}Kwh/m^2{/$$}, lo cual lo ubica dentro de los 5 países con mayor potencial para explotar esta fuente de energía,
+y así cubrir parte de su consumo de energía eléctrica, de esta manera. 
 
 
 
