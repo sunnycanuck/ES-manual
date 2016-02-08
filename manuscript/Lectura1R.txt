@@ -51,11 +51,13 @@ y situaciones que aun nos parecen desconocidas, tales como el funcionamiento de 
 el comportamiento de los cuerpos en el espacio, etc. 
 
 ###INVESTIGACIÓN SOBRE EL CONSUMO DE ENERGÍA
+
 | País  |2006 a 2010   |2011 a 2015   |
 |---|---|---|
 |  México |2.074   |2.012   |
 |   EUA|   13.240|12.954   |
 | Japón  |  7.841 |7.752   |
+
 El consumo de energía mostrado en la tabla anterior, esta expresado en {$$}Kwh per cápita{/$$}.
 El consumo de energía eléctrica mide la producción de las centrales eléctricas y de las plantas de
 cogeneración, menos las pérdidas ocurridas en la transmisión, distribución, transformación y el
