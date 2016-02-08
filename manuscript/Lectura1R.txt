@@ -76,12 +76,14 @@ ayuda de las energías renovables el consumo de energía eléctrica producida po
 disminuya aún más con el paso de los años. 
 ###RESERVAS DE COMBUSTIBLES FÓSILES
 Reservas de combústibles fósiles y otros recursos recuperables
+
 | Tipo de recurso  |Fuente   |Carbón   |Gas   |Petróleo   |
-|---|---|---|---|---|
+|-------------------|
 | RP  |BP 2013 |109   |56   |53   |
 | RP  |IEA 2013 |  142 |61   |54   |
 | R  |Shaffie and Topal 2009 |107   |37   |35   |
 | R  |Shaffie and Topal 2009  |106   |36   |34   |
+
 Las cifras reportadas se presentan en años de producción, en dicha tabla
 RP y R significan: reservas probadas y reservas, respectivamente. El problema
 con las reservas de combustibles fósiles no es la cantidad que queda ni el tiempo
