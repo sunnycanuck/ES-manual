@@ -6,7 +6,7 @@
 Es una forma de energía que estaría presente en todo el espacio y que aceleraría y explicaría la expansión del universo, ademas conforma casi {$$}3/4{/$$} partes de la masa-energía del universo.
 
 ###Materia oscura.
-Es la materia teórica que no emite suficiente luz para ser detectada, pero se deduce su existencia por sus efectos en galaxias y estrellas. Su densidad se estima en {$$}1*10^(-24) gr/(m^3){/$$}.
+Es la materia teórica que no emite suficiente luz para ser detectada, pero se deduce su existencia por sus efectos en galaxias y estrellas. Su densidad se estima en {$$}1*10^{-24} gr/(m^3){/$$}.
 
 ###Aplicaciones de las ecuaciones de Lagrange.
 
@@ -19,9 +19,26 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 ###Datos de consumo de Energia.
 
 ####Consumo anual de energia en Mexico.
-8,624.261 Petajoules
+8,624.261 Petajoules *(Balance Nacional de energia 2014)*
 
 ####Consumo aual *per capita* en Mexico
+72.041 {$$}GJ/(habitante x año){/$$} *(Balance Nacional de energia 2014)*
+
+####Consumo anual.
+
+####Consumo anual global.
+2.53 trillones de kilowatthora. *(2011, CIA Factbook)*
+
+####Reservas de combustibles fosiles.
+| Carbon  | 891,530  |  Mton. |
+|---|---|---|
+| Petroleo  | 223,454  |  Mton. |
+| Gas  |  209,742 | Mton.  |
+
+*Datos para el año 2011 obtenidos de CIA Factbook*
+
+####Energia Solar en Mexico
+8.73 {$$}PJ/año{/$$}
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
