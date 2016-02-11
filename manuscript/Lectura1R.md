@@ -44,7 +44,12 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 
 ##### Radiacion solar incidente sobre el territorio Mexicano.
 La energia solar que incide sobre un metro cuadrado en Mexico varia desde los 4.5 hasta los 7. En la siguiente imagen se puede ver la distribucion de la energia solar en el pais.
+
 ![alt text](http://solary.mx/tienda/img/cms/mapa-insolacion-mexico_1.gif "Mapa de energia solar")
+
+### Calculo de paneles requerido para abastecer de energia electrica a Mexico.
+Mexico como miembro activo de la organizacion de paises exportadores de petroleo (OPEP) regula junto con sus congeneres la produccion y venta de petroleo en el mundo. De igual manera basa su valor de moneda en el precio, produccion y venta del crudo. Pero actualmente con la baja de los precios de tan preciado recurso, el gobierno se ha visto en la necesidad de diverificar su produccion de energia asi como la exportacion de esta.
+Actualmente Mexico consume {$$}8,624.261X10Jo^les{/$$} *(2014, B.N.E)* y el panel 
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
