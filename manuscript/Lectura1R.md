@@ -200,6 +200,17 @@ en 10 minutos, ¿Cuando debe hacerse la mezcla de café más leche?*
 
 ![alt text](http://www.cafeserra.net/bundles/cafeserra/noticias/2505989375cbdf05d1d9d3be00693e47ccdf1a9b.jpeg "café")
  
+ Se podrían sucitar varios casos para realizar dicha mezcla. Por ejemplo:
+ 1. Si suponemos que como el café está caliente y la leche está demasiado fría, sería mejor esperar los 10 minutos y déspues 
+ realizar la mezcla. 
+ ¿Por qué?
+ Como las diferencias de temperaturas son muy altas, y además el café por si solo ya se encuentra perdiendo calor, si mezclamos
+ la leche desde un principio la temperatura bajará rapidamente, y déspues seguirá bajando (más lentamente) durante el transcurso
+ de los 10 minutos, hasta tratar de equilibrarse con la temperatura ambiente.
+ 2. Si suponemos que como el café está caliente y la leche está demasiado fría, y realizamos la mezcla. 
+ ¿Por qué?
+ 
+ 
 
 
 
