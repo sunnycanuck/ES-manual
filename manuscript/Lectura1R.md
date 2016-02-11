@@ -159,6 +159,14 @@ con una capacidad mundial de 117 Gw. Según la Asociación Nacional de Energía 
 5 {$$}Kwh/m^2{/$$}, lo cual lo ubica dentro de los 5 países con mayor potencial para explotar esta fuente de energía,
 y así cubrir parte de su consumo de energía eléctrica, de esta manera. 
 
+###APLICACION DE LAS ECUACIONES DE LAGRANGE
+Un modelo dinámico es aquel que describe los aspectos de un sistema que varían con el tiempo. El uso de los modelos
+dinámicos para especificar e implementar los aspectos de control de un sistema.
+Los robots manipuladores son sistemas mecánicos articulados formados por eslabones y conectados entre ellos a través de
+uniones o articulaciones. El modelo dinámico de un robot consiste en una ecuación diferencial vectorial en las posiciones,
+ya sean articulares {$$}q{/$$} o cartesianas {$$}x{/$$}, generalmente de segundo orden, pudiendose expresar como:
+{$$}f(q,\dot{q},\dot\dot{q},\tao){/$$}
+
 
 
 
