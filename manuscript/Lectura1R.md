@@ -63,7 +63,7 @@ Ahora con el numero de horas maximas al año y el consumo de energia anual se ob
 
 Suponiendo que en los paneles de solar city sean de 220Watts y de 1 metro cuadrado cada uno la cantidad de paneles necesarios estaria dada por:
  
-<Insertar ecuacion cantidad de paneles igual 5.085petawatts/(220watts/panel) igual a 2.31*10^13 paneles solares>
+<Insertar ecuacion cantidad de paneles igual 5.085petawatts/(220watts/panel) igual a 2.31*10^13 paneles solares
 
 Y por ultimo el area total
 
