@@ -55,7 +55,7 @@ Con estos datos y algunos otros se puede calcular cuantos paneles son necesarios
 
 Partiendo que hay 365 dias/año y 4.65 horas/dia (horas maximas) se obtiene el numero de horas maximas al año.
 
-<Insertar ecuacion 365 dias/año por 4.65 horas/dia igual a  1697.25 horas maximas/año>
+<Insertar ecuacion 365 dias/año por 4.65 horas/dia igual a  1697.25 horas maximas/año
 
 Ahora con el numero de horas maximas al año y el consumo de energia anual se obtiene la potencia requerida para generar la energia de Mexico al año.
 
@@ -67,7 +67,7 @@ Suponiendo que en los paneles de solar city sean de 220Watts y de 1 metro cuadra
 
 Y por ultimo el area total
 
-<Insertar ecuacion Area total [(1m^2/panel)(2.31*10^13 paneles)]/(1000000(m^2/km^2)) igual a 23,100,000 km^2>
+<Insertar ecuacion Area total [(1m^2/panel)(2.31*10^13 paneles)]/(1000000(m^2/km^2)) igual a 23,100,000 km^2
 
 Esta area es mucho mayor al area del pais mas grande del mundo, Rusia. Que a penas llega a alcanzar 17,100,000 {$$}km^{2}{/$$}.
 De hecho para cubrir todas las necesidades energeticas del mundo con energia solar se necesitaria un area inconmensurable. Por lo que la diversificacion de las energias alternas asi como su combinacion con las energias no renovables para poder llegar al punto de una sociedad sustentable.
