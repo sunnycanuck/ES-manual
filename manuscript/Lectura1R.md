@@ -125,9 +125,11 @@ energía suficiente para mantener encendido por casi 24 horas, un foco de 100w.
 Según datos de *CIA World Factbook*, el consumo anual de energía en México era de 212.3 miles de millones
 de Kwh, dicho dato fue válido hasta el 6 de Julio del año 2015. El consumo de energía en México durante los
 periódos comprendidos entre los años 2000 al 2014, según la misma fuente, se muestran en la tabla siguiente.
+
 | 2000  |2007   |2014   |
 |---|---|---|
 |  164.77 |224.6   |212.3   |
+
 Como se puede observar el consumo de energía en México, disminuyó para el año 2014, se espera que con la
 ayuda de las energías renovables el consumo de energía eléctrica producida por combustibles fósiles
 disminuya aún más con el paso de los años. 
