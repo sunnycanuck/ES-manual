@@ -194,7 +194,9 @@ donde $\tau$ es el par aplicado en la unión 1.
 
 ![alt text](https://cloud.githubusercontent.com/assets/16943736/12985407/4ea7a7e4-d0a7-11e5-952d-b6f4427ffde0.jpg "Robot de 1 g.d.l")
 
-
+###ACTIVIDAD: PROBLEMA DEL CAFÉ CON LECHE
+*Tenemos café fresco a {$$}60C{\$$} y leche a {$$}3C{\$$} (Temperatura ambiente {$$}=20C{\$$}). Si queremos el café lo más caliente
+en 10 minutos, ¿Cuando debe hacerse la mezcla de café más leche?*
 
  
 
