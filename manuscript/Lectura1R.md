@@ -138,7 +138,7 @@ disminuya aún más con el paso de los años.
 Reservas de combústibles fósiles y otros recursos recuperables
 
 | Tipo de recurso  |Fuente   |Carbón   |Gas   |Petróleo   |
-|-------------------|
+|---|---|---|---|---|
 | RP  |BP 2013 |109   |56   |53   |
 | RP  |IEA 2013 |  142 |61   |54   |
 | R  |Shaffie and Topal 2009 |107   |37   |35   |
