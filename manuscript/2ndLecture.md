@@ -1,6 +1,6 @@
 #2 Capitulo
  
-## 1 Mike
+## Mike
  
 ### Problema del cafe.
  
@@ -13,6 +13,7 @@ Basandonos en la ecuacion de conveccion que nos dice que la transferencia de cal
 
 Suponiendo que tanto el coeficiente de conveccion como el area de la taza son constantes al igual que la temperatura ambiente y que lo unico que cambiaria seria la temperatura del cafe por lo que a mayor temperatura del, cafe hay una mayor diferencia y por lo tanto la transferencia de calor es mayor a que si disminuimos la temperatura con leche fria.
 
+## Tiz
 
 
  
