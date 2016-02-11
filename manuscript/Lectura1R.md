@@ -191,7 +191,7 @@ Utilizando la definición de las ecuaciones de Lagrange, la ecuación de Lagrang
 $$m_{2}l_{2}^{2}\cos^{2}(\phi)\ddot{q}^{2}=\tau$$,
 donde $\tau$ es el par aplicado en la unión 1. 
 
-![alt text](https://cloud.githubusercontent.com/assets/16943736/12985188/1d029538-d0a6-11e5-9346-4b6fe321ffd7.jpg "Robot de 1 g.d.l")
+![alt text](https://cloud.githubusercontent.com/assets/16943736/12985407/4ea7a7e4-d0a7-11e5-952d-b6f4427ffde0.jpg "Robot de 1 g.d.l")
 
 
 
