@@ -165,8 +165,34 @@ dinámicos para especificar e implementar los aspectos de control de un sistema.
 Los robots manipuladores son sistemas mecánicos articulados formados por eslabones y conectados entre ellos a través de
 uniones o articulaciones. El modelo dinámico de un robot consiste en una ecuación diferencial vectorial en las posiciones,
 ya sean articulares {$$}q{/$$} o cartesianas {$$}x{/$$}, generalmente de segundo orden, pudiendose expresar como:
-{$$} f(q,\dot{q},\ddot{q},\tau{\$$}
+$$ f(q,\dot{q},\ddot{q},\tau)=0$$  
+$$ f(x,\dot{x},\ddot{x},\tau)=0$$
+El modelo dinámico recibe el nombre de modelo dinámico articular, y uno de sus principales usos (ádemas del diseño
+de controladores), es el uso para simulaciones mediante equipo de cómputo, del comportamiento del robot antes de que
+sea construido fisicamente. En esta etapa de simulación se pueden realizar mejoras al diseño del robot de manera que pueda
+realizar una tarea dada de forma adecuada. 
+Uno de los modelos más empleados para la obtención del modelo dinámico de robots manipuladores, es el basado en las ecuaciones
+de Lagrange. El empleo de las ecuaciones de Lagrange requiere la noción de dos conceptos importantes: la energía cinética y
+la energía potencial.
 
+Considérese el robot manipulador mostrado en la figura. El robot consiste en un eslabón rígido formado de dos partes de longitudes $l_{1}$ y $l_2$ y cuyas masas $m_{1}$ y $m_{2}$, son consideradas por simplicidad como puntuales y concentradas en sus respectivos
+extremos. El ángulo $\phi$ es constante. 
+La energía cinética $K(q,\dot{q})$ del robot manipulador está dada por el producto de la mitad del momento de inercia por el cuadrado
+de la velocidad angular:
+$$K(q,\dot{q})=\frac{1}{2}m_{2}^{2}l_{2}^{2}\cos^{2}(\phi)\dot{q}^{2}$$
+y la correspondiente energía potencial:
+$$U(q)=m_{1}l_{1}g+m_{2}(l_{1}+l_{2}\sin(\phi))g$$
+donde g es la aceleración de la gravedad.
+
+El Lagrangiano $L(q,\dot{q})$ es en este caso:
+$$L(q,\dot{q})=\frac{1}{2}m_{2}^{2}l_{2}^{2}\cos^{2}(\phi)\dot{q}^{2}-m_{1}l_{1}g-m_{2}(l_{1}+l_{2}\sin(\phi))g$$
+
+Utilizando la definición de las ecuaciones de Lagrange, la ecuación de Lagrange correspondiente es entonces:
+$$m_{2}l_{2}^{2}\cos^{2}(\phi)\ddot{q}^{2}=\tau$$,
+donde $\tau$ es el par aplicado en la unión 1. 
+
+
+ 
 
 
 
