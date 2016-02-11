@@ -51,6 +51,26 @@ La energia solar que incide sobre un metro cuadrado en Mexico varia desde los 4.
 Mexico como miembro activo de la organizacion de paises exportadores de petroleo (OPEP) regula junto con sus congeneres la produccion y venta de petroleo en el mundo. De igual manera basa su valor de moneda en el precio, produccion y venta del crudo. Pero actualmente con la baja de los precios de tan preciado recurso, el gobierno se ha visto en la necesidad de diverificar su produccion de energia asi como la exportacion de esta.
 Actualmente Mexico consume {$$}8,624.261X10^{15}Joules{/$$} *(2014, B.N.E)* y el panel mas eficiente lo comercializa Solar City, compañia del multimillonario Elon Musk propietario de Tesla Motors y SpaceX, con una [eficiencia de conversion del 22%](http://www.solarcity.com/newsroom/press/solarcity-unveils-world%E2%80%99s-most-efficient-rooftop-solar-panel-be-made-america).
 Como sabemos ademas el sol no da una potencia de {$$}1000 W/m^{2}{/$$} todo el dia por lo que solo una cierta cantidad de horas es cuando se puede decir el panel funciona a maxima capacidad. En Mexico se tiene un promedio de 4.65 horas (4 horas y 39 minutos) de irradiacion maxima promedio [*(2005, Instituto de geofisica de la UNAM)*](http://www.geofisica.unam.mx/ors/energia_solar1.pdf).
+Con estos datos y algunos otros se puede calcular cuantos paneles son necesarios para abastecer la energia (en su totalidad) que requiere Mexico.
+
+Partiendo que hay 365 dias/año y 4.65 horas/dia (horas maximas) se obtiene el numero de horas maximas al año.
+
+<Insertar ecuacion 365 dias/año por 4.65 horas/dia igual a  1697.25 horas maximas/año>
+
+Ahora con el numero de horas maximas al año y el consumo de energia anual se obtiene la potencia requerida para generar la energia de Mexico al año.
+
+<Insertar ecuacion Potencia requerida es igual a 8,624.261X10^{15}Joules/año sobre 1967.25 horas/año es aprox a 5.082 peta watts
+
+Suponiendo que en los paneles de solar city sean de 220Watts y de 1 metro cuadrado cada uno la cantidad de paneles necesarios estaria dada por:
+ 
+<Insertar ecuacion cantidad de paneles igual 5.085petawatts/(220watts/panel) igual a 2.31*10^13 paneles solares>
+
+Y por ultimo el area total
+
+<Insertar ecuacion Area total [(1m^2/panel)(2.31*10^13 paneles)]/(1000000(m^2/km^2)) igual a 23,100,000 km^2>
+
+Esta area es mucho mayor al area del pais mas grande del mundo, Rusia. Que a penas llega a alcanzar 17,100,000 {$$}km^{2}{/$$}.
+De hecho para cubrir todas las necesidades energeticas del mundo con energia solar se necesitaria un area inconmensurable. Por lo que la diversificacion de las energias alternas asi como su combinacion con las energias no renovables para poder llegar al punto de una sociedad sustentable.
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
