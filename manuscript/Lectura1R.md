@@ -207,8 +207,12 @@ en 10 minutos, ¿Cuando debe hacerse la mezcla de café más leche?*
  Como las diferencias de temperaturas son muy altas, y además el café por si solo ya se encuentra perdiendo calor, si mezclamos
  la leche desde un principio la temperatura bajará rapidamente, y déspues seguirá bajando (más lentamente) durante el transcurso
  de los 10 minutos, hasta tratar de equilibrarse con la temperatura ambiente.
- 2. Si suponemos que como el café está caliente y la leche está demasiado fría, y realizamos la mezcla. 
+ 2. Si suponemos que como el café está caliente y la leche está demasiado fría, y que la pérdida de calor se hará en un principio
+ muy rápido y luego muy lento, la taza de café tardará más en enfriarse. 
  ¿Por qué?
+ Como la diferencia de temperatura es muy grande en un principio, la pérdida de calor será muy rápida, y déspues la mezcla
+ tardará mas en equilibrarse con la temperatura ambiente por que ya había perdido mucho y por ende bajado su temperatura, al realizar
+ la mezcla.
  
  
 
