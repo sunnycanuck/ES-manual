@@ -6,7 +6,7 @@
 Es una forma de energía que estaría presente en todo el espacio y que aceleraría y explicaría la expansión del universo, ademas conforma casi {$$}3/4{/$$} partes de la masa-energía del universo.
 
 ###Materia oscura.
-Es la materia teórica que no emite suficiente luz para ser detectada, pero se deduce su existencia por sus efectos en galaxias y estrellas. Su densidad se estima en {$$}1*10^{-24} gr/(m^3){/$$}.
+Es la materia teórica que no emite suficiente luz para ser detectada, pero se deduce su existencia por sus efectos en galaxias y estrellas. Su densidad se estima en {$$}1X10^{-24} gr/(m^3){/$$}.
 
 ###Aplicaciones de las ecuaciones de Lagrange.
 
@@ -39,7 +39,12 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 *Datos para el año 2011 obtenidos de CIA Factbook*
 
 ####Energia Solar en Mexico
+##### Producida
 8.73 {$$}PJ/año{/$$} *(2014, Balance Nacion de Energia)*
+
+##### Radiacion solar incidente sobre el territorio Mexicano.
+La energia solar que incide sobre un metro cuadrado en Mexico varia desde los 4.5 hasta los 7. En la siguiente imagen se puede ver la distribucion de la energia solar en el pais.
+![alt text](http://solary.mx/tienda/img/cms/mapa-insolacion-mexico_1.gif "Mapa de energia solar")
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
