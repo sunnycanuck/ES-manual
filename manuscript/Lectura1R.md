@@ -192,6 +192,8 @@ $$m_{2}l_{2}^{2}\cos^{2}(\phi)\ddot{q}^{2}=\tau$$,
 donde $\tau$ es el par aplicado en la unión 1. 
 
 
+
+
  
 
 
