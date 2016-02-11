@@ -50,6 +50,7 @@ La energia solar que incide sobre un metro cuadrado en Mexico varia desde los 4.
 ### Calculo de paneles requerido para abastecer de energia electrica a Mexico.
 Mexico como miembro activo de la organizacion de paises exportadores de petroleo (OPEP) regula junto con sus congeneres la produccion y venta de petroleo en el mundo. De igual manera basa su valor de moneda en el precio, produccion y venta del crudo. Pero actualmente con la baja de los precios de tan preciado recurso, el gobierno se ha visto en la necesidad de diverificar su produccion de energia asi como la exportacion de esta.
 Actualmente Mexico consume {$$}8,624.261X10^{15}Joules{/$$} *(2014, B.N.E)* y el panel mas eficiente lo comercializa Solar City, compañia del multimillonario Elon Musk propietario de Tesla Motors y SpaceX, con una [eficiencia de conversion del 22%](http://www.solarcity.com/newsroom/press/solarcity-unveils-world%E2%80%99s-most-efficient-rooftop-solar-panel-be-made-america).
+Como sabemos ademas el sol no da una potencia de {$$}1000 W/m^{2}{/$$} todo el dia por lo que solo una cierta cantidad de horas es cuando se puede decir el panel funciona a maxima capacidad. En Mexico se tiene un promedio de 4.65 horas (4 horas y 39 minutos) de irradiacion maxima promedio [*(2005, Instituto de geofisica de la UNAM)*](http://www.geofisica.unam.mx/ors/energia_solar1.pdf).
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
