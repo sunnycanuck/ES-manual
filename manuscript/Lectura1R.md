@@ -28,7 +28,7 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 *Datos no encontrados.*
 
 ####Consumo anual global.
-2.53 trillones de kilowatthora. *(2011, CIA Factbook)*
+2.53 {$$}KilowatthoraX10^{12}{/$$}. *(2011, CIA Factbook)*    
 
 ####Reservas de combustibles fosiles.
 | Carbon  | 891,530  |  Mton. |
