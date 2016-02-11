@@ -156,7 +156,7 @@ En el año 2012, egún datos de *CIA World Factbook*, el consumo de energía anu
 19.71 trillones de Kwh. Como se mencionó anteriormente, tan solo en México se consumieron 212.3 miles de millones
 de Kwh hasta Julio del año pasado. En 2014 la energía solar fotovoltaíca, registro un estimado de 40 Gw instalados,
 con una capacidad mundial de 117 Gw. Según la Asociación Nacional de Energía Solar *ANES*, México recibe en promedio
-5 $Kwh/m^2$ , lo cual lo ubica dentro de los 5 países con mayor potencial para explotar esta fuente de energía,
+5 {$$}Kwh/m^2{/$$} , lo cual lo ubica dentro de los 5 países con mayor potencial para explotar esta fuente de energía,
 y así cubrir parte de su consumo de energía eléctrica, de esta manera. 
 
 ###APLICACION DE LAS ECUACIONES DE LAGRANGE
@@ -175,20 +175,21 @@ Uno de los modelos más empleados para la obtención del modelo dinámico de rob
 de Lagrange. El empleo de las ecuaciones de Lagrange requiere la noción de dos conceptos importantes: la energía cinética y
 la energía potencial.
 
-Considérese el robot manipulador mostrado en la figura. El robot consiste en un eslabón rígido formado de dos partes de longitudes $l_{1}$ y $l_2$ y cuyas masas $m_{1}$ y $m_{2}$, son consideradas por simplicidad como puntuales y concentradas en sus respectivos
-extremos. El ángulo $\phi$ es constante. 
-La energía cinética $K(q,\dot{q})$ del robot manipulador está dada por el producto de la mitad del momento de inercia por el cuadrado
-de la velocidad angular:
-$$K(q,\dot{q})=\frac{1}{2}m_{2}^{2}l_{2}^{2}\cos^{2}(\phi)\dot{q}^{2}$$
+Considérese el robot manipulador mostrado en la figura. El robot consiste en un eslabón rígido formado de dos partes de longitudes 
+{$$}l_{1}{/$$} y $l_2$ y cuyas masas {$$}m_{1}{/$$} y {$$}m_{2}{/$$}, son consideradas por simplicidad como puntuales y concentradas 
+en sus respectivos extremos. El ángulo [$$}\phi{/$$} es constante. 
+La energía cinética {$$}K(q,\dot{q}){/$$} del robot manipulador está dada por el producto de la mitad del momento de inercia por el 
+cuadrado de la velocidad angular:
+{$$}K(q,\dot{q})=\frac{1}{2}m_{2}^{2}l_{2}^{2}\cos^{2}(\phi)\dot{q}^{2}{/$$}
 y la correspondiente energía potencial:
-$$U(q)=m_{1}l_{1}g+m_{2}(l_{1}+l_{2}\sin(\phi))g$$
+{$$}U(q)=m_{1}l_{1}g+m_{2}(l_{1}+l_{2}\sin(\phi))g{/$$}
 donde g es la aceleración de la gravedad.
 
 El Lagrangiano $L(q,\dot{q})$ es en este caso:
-$$L(q,\dot{q})=\frac{1}{2}m_{2}^{2}l_{2}^{2}\cos^{2}(\phi)\dot{q}^{2}-m_{1}l_{1}g-m_{2}(l_{1}+l_{2}\sin(\phi))g$$
+{$$}L(q,\dot{q})=\frac{1}{2}m_{2}^{2}l_{2}^{2}\cos^{2}(\phi)\dot{q}^{2}-m_{1}l_{1}g-m_{2}(l_{1}+l_{2}\sin(\phi))g{/$$}
 
 Utilizando la definición de las ecuaciones de Lagrange, la ecuación de Lagrange correspondiente es entonces:
-$$m_{2}l_{2}^{2}\cos^{2}(\phi)\ddot{q}^{2}=\tau$$,
+{$$}m_{2}l_{2}^{2}\cos^{2}(\phi)\ddot{q}^{2}=\tau{/$$},
 donde $\tau$ es el par aplicado en la unión 1. 
 
 ![alt text](https://cloud.githubusercontent.com/assets/16943736/12985407/4ea7a7e4-d0a7-11e5-952d-b6f4427ffde0.jpg "Robot de 1 g.d.l")
