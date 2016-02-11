@@ -30,11 +30,12 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 ####Consumo anual global.
 2.53 {$$}KilowatthoraX10^{12}{/$$}. *(2011, CIA Factbook)*    
 
-####Reservas mundiales de combustibles fosiles.
+####Reservas de combustibles fosiles.
+|  Combustible |  Cantidad |  Unidades |
+|---|---|---|
 | Carbon  | 891,530  |  Mton. |
 | Petroleo  | 223,454  |  Mton. |
 | Gas  |  209,742 | Mton.  |
-
 *Datos para el año 2011 obtenidos de CIA Factbook*
 
 ####Energia Solar en Mexico
