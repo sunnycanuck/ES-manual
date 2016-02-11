@@ -22,9 +22,10 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 8,624.261 Petajoules *(2014, Balance Nacional de energia)*
 
 ####Consumo aual *per capita* en Mexico
-72.041 {$$}GJ/(habitante x año){/$$} *(2014, Balance Nacional de energia)*
+72,041 {$$}GJ/(habitante x año){/$$} *(2014, Balance Nacional de energia)*
 
 ####Consumo anual.
+*Datos no encontrados.*
 
 ####Consumo anual global.
 2.53 trillones de kilowatthora. *(2011, CIA Factbook)*
