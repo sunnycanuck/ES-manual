@@ -194,27 +194,3 @@ donde $\tau$ es el par aplicado en la unión 1.
 
 ![alt text](https://cloud.githubusercontent.com/assets/16943736/12985407/4ea7a7e4-d0a7-11e5-952d-b6f4427ffde0.jpg "Robot de 1 g.d.l")
 
-###ACTIVIDAD: PROBLEMA DEL CAFÉ CON LECHE
-*Tenemos café fresco a {$$}60C{\$$} y leche a {$$}3C{\$$} (Temperatura ambiente {$$}=20C{\$$}). Si queremos el café lo más caliente
-en 10 minutos, ¿Cuando debe hacerse la mezcla de café más leche?*
-
-![alt text](http://www.cafeserra.net/bundles/cafeserra/noticias/2505989375cbdf05d1d9d3be00693e47ccdf1a9b.jpeg "café")
- 
- Se podrían sucitar varios casos para realizar dicha mezcla. Por ejemplo:
- 1. Si suponemos que como el café está caliente y la leche está demasiado fría, sería mejor esperar los 10 minutos y déspues 
- realizar la mezcla. 
- ¿Por qué?
- Como las diferencias de temperaturas son muy altas, y además el café por si solo ya se encuentra perdiendo calor, si mezclamos
- la leche desde un principio la temperatura bajará rapidamente, y déspues seguirá bajando (más lentamente) durante el transcurso
- de los 10 minutos, hasta tratar de equilibrarse con la temperatura ambiente.
- 2. Si suponemos que como el café está caliente y la leche está demasiado fría, y que la pérdida de calor se hará en un principio
- muy rápido y luego muy lento, la taza de café tardará más en enfriarse. 
- ¿Por qué?
- Como la diferencia de temperatura es muy grande en un principio, la pérdida de calor será muy rápida, y déspues la mezcla
- tardará mas en equilibrarse con la temperatura ambiente por que ya había perdido mucho y por ende bajado su temperatura, al realizar
- la mezcla.
- 
- 
-
-
-
