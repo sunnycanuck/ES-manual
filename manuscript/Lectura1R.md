@@ -19,10 +19,10 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 ###Datos de consumo de Energia.
 
 ####Consumo anual de energia en Mexico.
-8,624.261 Petajoules *(Balance Nacional de energia 2014)*
+8,624.261 Petajoules *(2014, Balance Nacional de energia)*
 
 ####Consumo aual *per capita* en Mexico
-72.041 {$$}GJ/(habitante x año){/$$} *(Balance Nacional de energia 2014)*
+72.041 {$$}GJ/(habitante x año){/$$} *(2014, Balance Nacional de energia)*
 
 ####Consumo anual.
 
@@ -38,7 +38,7 @@ Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuacione
 *Datos para el año 2011 obtenidos de CIA Factbook*
 
 ####Energia Solar en Mexico
-8.73 {$$}PJ/año{/$$}
+8.73 {$$}PJ/año{/$$} *(2014, Balance Nacion de Energia)*
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
@@ -99,6 +99,7 @@ periódos comprendidos entre los años 2000 al 2014, según la misma fuente, se 
 Como se puede observar el consumo de energía en México, disminuyó para el año 2014, se espera que con la
 ayuda de las energías renovables el consumo de energía eléctrica producida por combustibles fósiles
 disminuya aún más con el paso de los años. 
+
 ###RESERVAS DE COMBUSTIBLES FÓSILES
 Reservas de combústibles fósiles y otros recursos recuperables
 
