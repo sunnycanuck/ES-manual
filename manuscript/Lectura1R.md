@@ -16,6 +16,12 @@ El desbalanceo del motor y el desalineamiento son las causas principales de la g
 ####En aerogeneradores.
 Las ecuaciones de movimiento de un aerogenerador se derivan usando las ecuaciones de Lagrange, considerando restricciones del tipo no-holonomicas que son incorporadas explicita a través de la introducción de multiplicadores de Lagrange.
 
+###Datos de consumo de Energia.
+
+####Consumo anual de energia en Mexico.
+8,624.261 Petajoules
+
+####Consumo aual *per capita* en Mexico
 
 ##2 Tiz
 ###MATERIA Y ENERGÍA OSCURA
