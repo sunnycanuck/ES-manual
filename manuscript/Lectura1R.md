@@ -198,6 +198,7 @@ donde $\tau$ es el par aplicado en la unión 1.
 *Tenemos café fresco a {$$}60C{\$$} y leche a {$$}3C{\$$} (Temperatura ambiente {$$}=20C{\$$}). Si queremos el café lo más caliente
 en 10 minutos, ¿Cuando debe hacerse la mezcla de café más leche?*
 
+![alt text](http://www.cafeserra.net/bundles/cafeserra/noticias/2505989375cbdf05d1d9d3be00693e47ccdf1a9b.jpeg "café")
  
 
 
