@@ -165,7 +165,7 @@ dinámicos para especificar e implementar los aspectos de control de un sistema.
 Los robots manipuladores son sistemas mecánicos articulados formados por eslabones y conectados entre ellos a través de
 uniones o articulaciones. El modelo dinámico de un robot consiste en una ecuación diferencial vectorial en las posiciones,
 ya sean articulares {$$}q{/$$} o cartesianas {$$}x{/$$}, generalmente de segundo orden, pudiendose expresar como:
-$$ f(q,\dot{q},\ddot{q},\tau$$
+{$$} f(q,\dot{q},\ddot{q},\tau{\$$}
 
 
 
