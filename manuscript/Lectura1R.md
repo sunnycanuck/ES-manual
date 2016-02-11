@@ -156,7 +156,7 @@ En el año 2012, egún datos de *CIA World Factbook*, el consumo de energía anu
 19.71 trillones de Kwh. Como se mencionó anteriormente, tan solo en México se consumieron 212.3 miles de millones
 de Kwh hasta Julio del año pasado. En 2014 la energía solar fotovoltaíca, registro un estimado de 40 Gw instalados,
 con una capacidad mundial de 117 Gw. Según la Asociación Nacional de Energía Solar *ANES*, México recibe en promedio
-5 $$Kwh/m^2$$, lo cual lo ubica dentro de los 5 países con mayor potencial para explotar esta fuente de energía,
+5 $Kwh/m^2$ , lo cual lo ubica dentro de los 5 países con mayor potencial para explotar esta fuente de energía,
 y así cubrir parte de su consumo de energía eléctrica, de esta manera. 
 
 ###APLICACION DE LAS ECUACIONES DE LAGRANGE
