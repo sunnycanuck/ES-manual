@@ -1,1 +1,2 @@
 Lectura1R.txt
+2ndLecture.txt
