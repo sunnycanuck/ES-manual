@@ -10,3 +10,5 @@ Tosa esta cadena concluye con la instalacion de la glucosa en el cambium (capa s
 Las plantas verdes producen en sus hojas las sustancias para su crecimiento nediante el proceso de fotosintesis, una compleja reaccion quimica que se lleva a cabo en las hojas. La fotosintesis es el proceso a traves del cual las plantas verdes utilizan la energia de la luz solar para fabricar carbohidratos a partir del dioxido de carbono y agua, en presencia de la clorofila. En estas plantas. el agua y otros nutrientes son absorbidos desde el suelo por las raices y trsladados hacia las hojas a traves del xilema, una de las componentes del "sistema circulatorio" de las plantas. El diocido de carbono es obtenido del aire que entre a las hojas a traves de los estomas (poros) y se difunde hacia las celulas que contienen clorofila. Este pigmento fotosintetico verde denominado clorofila la energia activa de la luz en una forma latente de energia que puede ser almacenada (como alimento para ser usada cuando se necesite.
 
 La reaccion de sintesis de celulosa tiene la siguiente notacion.
+
+![alt text](http://i63.tinypic.com/25tazv9.jpg "Fotosintesis")
