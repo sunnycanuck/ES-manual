@@ -58,4 +58,5 @@ El diferencia entre estos dos son...
 -desalinización por compresión 
 
 ###Membrana
--osmo
+-osmosis inversa
+electrodialisis
