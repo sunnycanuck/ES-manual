@@ -2,8 +2,6 @@
 
 ##Agua Para production de electricidad
 
-Consumo promedio seria
-
 ## Uso del Agua para la producción de petroléo y gas natural.
 Debido a que el petroléo se forma por la transformación de la materia orgánica acumulada en sedimentos del pasado geolólico y se
 encuentra atradapado en capas geológicas naturales, su proceso de extración
@@ -61,4 +59,4 @@ El diferencia entre estos dos son...
 
 ###Membrana
 -osmosis inversa
-electrodialisis
+-Electrodiálisis
