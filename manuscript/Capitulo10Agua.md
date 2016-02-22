@@ -25,6 +25,7 @@ A las plantas hidroelectricas de les concesiono un total de 166 mil millones de 
 
 ###Resumen
 *Unidades en miles de millones de metros cubico*
+
 |  Uso | Total  | Superficial  | Subterranea  |%   |
 |---|---|---|---|---|
 |  Agricola |  63.3 | 41.2 |  22.2 | 76.6  |
