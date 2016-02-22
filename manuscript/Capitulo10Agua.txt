@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #Capitulo 10 Agua
 
 ##Agua Para production de electricidad
