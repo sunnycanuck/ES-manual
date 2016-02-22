@@ -1,11 +1,9 @@
 <<<<<<< Updated upstream
 #Capitulo 10 Agua
-## Uso del Agua para la producción de petroléo y gas natural.
-=======
-#Capitulo 10: Agua Dulce
->>>>>>> Stashed changes
 
 ##Agua Para production de electricidad
+
+## Uso del Agua para la producción de petroléo y gas natural.
 
 ##Uso para personas en Sociedad
 
