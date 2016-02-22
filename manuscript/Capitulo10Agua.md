@@ -1,0 +1,37 @@
+#Capitulo 10 Agua
+
+##Agua Para production de electricidad
+
+## Uso del Agua para la producción de petroléo y gas natural.
+Debido a que el petroléo se forma por la transformación de la materia orgánica acumulada en sedimentos del pasado geolólico y se
+encuentra atradapado en capas geológicas naturales, su proceso de extración
+
+##Uso para personas en Sociedad
+
+###Agricultura y Ganaderia
+El uso del agua en la agricultura en Mexico abarca el 76.6% del consumo nacional, con un total de 63 mil millones de metros cubicos, de los cuales 41.2mil millones son de fuentes superficiales de agua y 22.2 mil millones de fuentes subterraneas. 
+
+###Urbano/Rural (Abastecimiento publico)
+En esta categoria se incluyen a todos aquellos que estan conectados a la red publica de distribucion de agua, por ejemplo las casas-habitacion, departamentos e igualmente industrias. En Mexico el 14.5% de toda el agua es usada en el abasteciento publico,  con un total de 12 mil millones de metros cubicos de los cuales 4.7 mil millones son de fuentes superficiales y 7.3 mil millones de fuentes subterraneas. 
+
+###Industria Autoabastecida
+La industria autoabastecida es aquella que hace uso de rios, lagos y mantos acuiferos como suministro de agua para sus actividades. Esta actividad representa un 4% del total con 3.3 mil millones de metros cubicos de agua de los cuales 1.4 mil millones son de fuentes superficiales y 1.9 mil millones de fuentes subterraneas.
+
+###Produccion de energia (No hidroelectricas)
+La industria de la produccion de energia electrica abarca un 4.9% que son 4.1 mil millones de metros cubico de los cuales 3.6 son de fuentes superficiales y 0.4 mil millones de fuentes subterraneas.
+
+###Hidroelectricas
+A las plantas hidroelectricas de les concesiono un total de 166 mil millones de metros cubicos para su produccion pero solamente hicieron uso de 155.7 mil millones de metros cubicos.
+
+###Resumen
+*Unidades en miles de millones de metros cubico*
+|  Uso | Total  | Superficial  | Subterranea  |%   |
+|---|---|---|---|---|
+|  Agricola |  63.3 | 41.2 |  22.2 | 76.6  |
+| Abastecimiento publico  | 12  |  4.7 | 7.3  |  14.5 |
+|  Industria autoabastecida | 3.3  | 1.4  | 1.9  | 4.0  |
+|  Energia electrica |  4.1 |3.6   |  0.4 |  4.9 |
+|  Total | 82.7  |  51 | 31.8  |  100 |
+
+
+##Uso de agua para medio ambiente
