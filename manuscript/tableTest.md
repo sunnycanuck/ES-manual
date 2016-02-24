@@ -1,6 +1,5 @@
 # trial tables
 
-
 | fuente | porcentaje de producción de energía EEUU |Baja uso de agua /(L/kWh) | Alta uso de agua /(L/kWh) | referencia |
 |-------|
 |Carbon mineral | 50%  | 0.5289 | 2.1156 | USDOE 2006; Gleick 1994; EIA 2008 | 
@@ -18,3 +17,4 @@
 ##second trial 
 
 | name |  stuff | more |
+|---------------|
