@@ -1,5 +1,16 @@
 # trial tables
 
+more try
+
+
+|  Combustible |  Cantidad |  Unidades |
+|---|---|---|
+| Carbon  | 891,530  |  Mton. |
+| Petroleo  | 223,454  |  Mton. |
+| Gas  |  209,742 | Mton.  |
+
+
+
 | fuente | porcentaje de producción de energía EEUU |Baja uso de agua /(L/kWh) | Alta uso de agua /(L/kWh) | referencia |
 |-------|
 |Carbon mineral | 50%  | 0.5289 | 2.1156 | USDOE 2006; Gleick 1994; EIA 2008 | 
