@@ -2,6 +2,53 @@
 
 ##Agua Para production de electricidad
 
+###Uso de agua en produccion de recurso
+
+Agua está usado en el extraccion de carbon mineral en los máquinas de extracción, transportación, refinamiento, supresión de polvo, lubricación de equipos y en los procesos post-producción como reclamación de tierra y revegetación.
+
+En gas natural agua está usado en los equipos de perforación mientras con el gas natural que está extraído viene mucho agua que está reinjecionado al acuífero. Processos que trabajan con el metano en los plantes de refinamiento. 
+
+Petrolio usa mas agua que los otras. Se usa en la reinjecionado de los pozos de aciete para forcar el aciete, tambien agua esta usado en los plantes de refinamiento.
+
+En los biocombustibles como ethanol producido de Maize y biodiesel producido de soy, el uso pricipal de agua esta en el riego de los cultivos. Tambien el tratamiento para el produccion de los combustibles consuma agu como el refinamiento de petrolio, mientras que esta bastante menos que auga usado en el riego. 
+
+
+| fuente | porcentaje de producción de energía EEUU |Baja uso de agua /(L/kWh) | Alta uso de agua /(L/kWh) | referencia |
+|---|---|---|----|---|
+| Carbon mineral | 50%  | 0.5289 | 2.1156 | USDOE 2006; Gleick 1994; EIA 2008 | 
+| Gas Natural | 25% | 0.0387 | | USDOE 2006; Gleick 1994; EIA 2008 |
+| Petrolio  | 15.48 | 31.218 | USDOE 2006; Gleick 1994 |
+|---|---|---|----|---|
+| Maize ethanol |  | 32.379 | 375.39 | USDOE 2006; USDA 2004|
+| Soy-Biodiesel |  |  180.6 | 967.5 | USDOE 2006; USDA 2004|
+|---|---|---|----|---|
+| Synfuel- Gasificación de carbon mineral | | 0.1419 | 0.3319 | USDOE 2006;Gleick 1994; EIA 2008 |
+| Synfuel-arenas bituminosas | | 0.1935 |  0.4902 | USDOE 2006; Gleick 1994| 
+| Synfuel- Lutita bituminosa | | 0.258 | 0.645 | USDOE 2006 |
+
+Fuente de energía renovable debe ser mencionado aquí. Sistemas hidroelectrico, como van a ver en el proxima seccion, consuma poco agua mientras pasa por el turbina, mientras para formar el resouvior de agua implica un incremento de perdidas de agua por evaporacion. Tambien los fotovoltiaicos require bastante agua en los processos para producir los celdulas. 
+
+###Uso de agua en producción de energía electrica
+
+Sistemas hidroelectrico usan poco agua en sus turbinas y casi todo la agua seria regresado al sistema hidralica natural. Hay un incremento en evaparacion y absorcion al tierra. 
+
+| Sistema de generacion de potencía | usa baja /(L/kWh) | uso alta /(L/kWh) |
+|---|---|---|
+| hidroelectrica | 0.258 | 68 | USDOE 2006 Gleick 1994; EIA 2008 ; Torcellini09 |
+| Termoelectica, combustible fosil |1.8 , 14.19 | 28.38 | USDOE 2006; Hutson et. Al 2004 , Torcellini09 |
+| Geotermico | 1.677 |  |  USDOE 2006; EIA 2008 |
+| Nuclear | 30.96 | 74.82 | USDOE 2006; EPRI 2002a; EPPRI 2002b |
+| Solar Termico | 2.967 | 3.483 | USDOE 2006 |
+
+from Torcellini09: 
+
+| Power Provider | Gallons Evaporated per kWh at Thermoelectric Plants | Gallons Evaporated per kWh at Hydroelectric Plants | Weighted Gallons Evaporated per kWh of Site Energy |
+| Western Interconnect | 0.38 (1.4 L) | 12.4 (47.0 L)  | 4.42 (16.7 L) |
+| Eastern Interconnect | 0.49 (1.9 L) | 55.1 (208.5 L) | 2.33 (8.8 L) |
+| Texas Interconnect | 0.44 (1.7 L) | 0.0 (0 L) | 0.43 (1.6 L) |
+| U.S. Aggregate | 0.47 (1.8 L) | 18.0 (68 L) | 2.00 (7.6 L) |
+
+
 ## Uso del Agua para la producción de petroléo y gas natural.
 Debido a que el petroléo se forma por la transformación de la materia orgánica acumulada en sedimentos del pasado geolólico y se
 encuentra atradapado en capas geológicas naturales, su proceso de extración
