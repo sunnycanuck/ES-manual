@@ -41,12 +41,18 @@ Uso percapita Mexico
 118,395,054
 |  Uso | Total / m³ | Superficial / m³  | Subterranea / m³  |%   |
 |---|---|---|---|---|
-|  Agricola |  63.3 | 41.2 |  22.2 | 76.6  |
-| Abastecimiento publico  | 12  |  4.7 | 7.3  |  14.5 |
-|  Industria autoabastecida | 3.3  | 1.4  | 1.9  | 4.0  |
-|  Energia electrica |  4.1 |3.6   |  0.4 |  4.9 |
-|  Total | 82.7  |  51 | 31.8  |  100 |
+|  Agricola |  534.6507 | 347.9875 |  187.5078 | 76.6  |
+| Abastecimiento publico  | 101.3556  |  39.6976 | 61.6580  |  14.5 |
+|  Industria autoabastecida | 27.8728  | 11.8248  | 16.0480  | 4.0  |
+|  Energia electrica | 34.6298  | 30.4067  |3.3785   |  4.9 |
+|  Total | 698.5089  |  430.7612 | 268.5923  |  100 |
 
+Nota: 1 km³ = 1 000 hm³ = mil millones de m³.
+Los datos corresponden a volúmenes concesionados al 31 de diciembre de 2012.
+Las sumas pueden no coincidir por el redondeo de cifras.
+Fuente: Conagua. Subdirección General de Administración del Agua. 2013.
+INEGI. Poblacion en Mexico a mediados del 2013. 118,395,054 habitantes.
+ 
 ##Uso de agua para medio ambiente
 
 ##Fuentes de agua dulce natural
