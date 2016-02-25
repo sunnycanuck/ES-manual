@@ -28,5 +28,4 @@ more try
 ##second trial 
 
 | name |  stuff | more |
-|---------------|
 | 1 | 2 | 3 |
