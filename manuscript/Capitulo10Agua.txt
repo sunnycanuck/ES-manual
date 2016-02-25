@@ -94,17 +94,34 @@ A las plantas hidroelectricas de les concesiono un total de 166 mil millones de 
 
 ##Fuentes de agua dulce artificial
 
-###Desalación y desalinzacion
+###Desalación y desalinización
 
+La definición de desalación es acción y efecto de quitar la sal a algo, y para la de desalinizar es quitar la sal del agua del mar o de las aguas salobres, para hacerlas potables o útiles para otros fines.
 El diferencia entre estos dos son...
 
-###Destilación
--Sistemas de destilación directa: 1) destilador solar. 2) destilador solar por humidificación-deshumidificación. 3) Chimenea de destilación.
--Sistema de desalinisacion multietapa por flasheo.
--Sitema de destilación por multiefecto.
--desalinización por compresión 
+##Sistemas de desalinización
 
-###Membrana
--osmosis inversa
--Electrodiálisis
+###Sistemas térmicos.- En estos sistemas se utilizan calor para generar principalmente los procesos de evaporación y condensación en el agua de mar o agua salobre, para separar el agua y las sales.
+
+-Destilación solar (SD).
+-Humidificación-deshumidificación (HDH).
+-Desalinización multietapa por flasheo (MSF).
+-Destilación por multiefecto (MED).
+-Desalinización por compresión de vapor (MVC).
+-Congelación (Frz).
+
+### Sistemas de membrana.- Sistemas en los que se aplicación altas presiones al agua salada para pasarla forzadamente a través de una membrana, en la cual la sal se quede retenida.
+
+-Ósmosis inversa (RO).
+-Ósmosis directa (FO).
+-Electrodiálisis (ED).
+-Nano-filtración (NF).
+
+###Sistemas químicos.- Métodos por activación química del agua salada.
+
+-Intercambio iónico (I.Ex).
+-Extracción líquido-líquido (LLE). 
+-Hidratación de un gas (G.Hyd).
+
+##Referencias
 
