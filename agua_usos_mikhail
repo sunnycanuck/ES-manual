@@ -22,9 +22,9 @@ La industria de la produccion de energia electrica abarca un 4.9% que son 4.1 mi
 A las plantas hidroelectricas de les concesiono un total de 166 mil millones de metros cubicos para su produccion pero solamente hicieron uso de 155.7 mil millones de metros cubicos.
 
 ###Resumen
-*Unidades en miles de millones de metros cubicos*
+Uso
 
-|  Uso | Total /Tl | Superficial /Tl  | Subterranea /Tl  |%   |
+|  Uso | Total / km³ | Superficial / km³  | Subterranea / km³  |%   |
 |---|---|---|---|---|
 |  Agricola |  63.3 | 41.2 |  22.2 | 76.6  |
 | Abastecimiento publico  | 12  |  4.7 | 7.3  |  14.5 |
@@ -32,12 +32,26 @@ A las plantas hidroelectricas de les concesiono un total de 166 mil millones de 
 |  Energia electrica |  4.1 |3.6   |  0.4 |  4.9 |
 |  Total | 82.7  |  51 | 31.8  |  100 |
 
+Nota: 1 km³ = 1 000 hm³ = mil millones de m³.
+Los datos corresponden a volúmenes concesionados al 31 de diciembre de 2012.
+Las sumas pueden no coincidir por el redondeo de cifras.
+Fuente: Conagua. Subdirección General de Administración del Agua. 2013.
+
+Uso percapita Mexico
+118,395,054
+|  Uso | Total / m³ | Superficial / m³  | Subterranea / m³  |%   |
+|---|---|---|---|---|
+|  Agricola |  63.3 | 41.2 |  22.2 | 76.6  |
+| Abastecimiento publico  | 12  |  4.7 | 7.3  |  14.5 |
+|  Industria autoabastecida | 3.3  | 1.4  | 1.9  | 4.0  |
+|  Energia electrica |  4.1 |3.6   |  0.4 |  4.9 |
+|  Total | 82.7  |  51 | 31.8  |  100 |
 
 ##Uso de agua para medio ambiente
 
 ##Fuentes de agua dulce natural
 
-###lluvia
+###Lluvia
 
 ###Arroyos, rios y lagos
 ####Rios
