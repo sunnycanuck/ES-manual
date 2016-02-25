@@ -30,6 +30,7 @@ more try
 | name |  stuff | more |
 |---|---|---|
 | 1 | 2 | 3 |
+|-----------|
 | yes | no | maybe |
 
 
