@@ -87,7 +87,7 @@ A las plantas hidroelectricas de les concesiono un total de 166 mil millones de 
 ##Fuentes de agua dulce natural
 
 ###lluvia
-
+[promedio de lluvia por año en Ensenada]()
 ###arroyos rios y lagos
 
 ###Aquiferos y pozos
@@ -122,6 +122,8 @@ El diferencia entre estos dos son...
 -Intercambio iónico (I.Ex).
 -Extracción líquido-líquido (LLE). 
 -Hidratación de un gas (G.Hyd).
+
+##Resumen
 
 ##Referencias
 
