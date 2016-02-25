@@ -39,7 +39,7 @@ Fuente: Conagua. Subdirección General de Administración del Agua. 2013.
 
 Uso por habitante en Mexico
 
-|  Uso | Total / m³ por habitante | Superficial / m³ por habitante  | Subterranea / m³ por habitante  |%   |
+|  Uso | Total / m³ por habitante*año | Superficial / m³ por habitante  | Subterranea / m³ por habitante  |%   |
 |---|---|---|---|---|
 |  Agricola |  534.6507 | 347.9875 |  187.5078 | 76.6  |
 | Abastecimiento publico  | 101.3556  |  39.6976 | 61.6580  |  14.5 |
@@ -61,9 +61,7 @@ INEGI. Poblacion en Mexico a mediados del 2013. 118,395,054 habitantes.
 
 ###Arroyos, rios y lagos
 ####Rios
-En Mexico existen 42 rios principales que trancurren en tres vertientes: occidental o del Pacifico, oriental o del oceano Atlantico (Golfo de Mexico y Mar Caribe) e interior, cuyos rios desembocan en lagunas interiores.
-Los rios principales son los que se ven en la siguiente imagen.
-
+Los ríos y arroyos del país constituyen una red hidrográfica de 633 mil kilómetros de longitud, en la que destacan cincuenta ríos principales por los que fluye el 87% del escurrimiento superficial del país y cuyas cuencas cubren el 65% de la superficie territorial continental del país. 
 
 En la vertiente del Pacífico destacan las cuencas de los ríos Yaqui, Fuerte, Mezquital, Lerma-Santiago y Balsas; en la costa del Golfo de México, las cuencas de los ríos Bravo, Pánuco, Papaloapan, Grijalva y Usumacinta.
 Destaca la del río Nazas entre las cuencas endorreicas. La mayor parte de la Península de Yucatán carece de drenaje superficial pues se trata de una extensión de poco relieve y sustrato permeable, por lo que casi toda la circulación de agua es subterránea. Algunas llanuras costeras tienen fuertes deficiencias de drenaje por su escasa pendiente, como las áreas de Baja California, Sonora, Tamaulipas, Nayarit, Tabasco y las partes bajas de las cuencas del Pánuco y del Papaloapan en Veracruz. Algunas cuencas que recogen aguas de zonas húmedas lejanas son relativamente grandes, como las de los ríos Nazas, Aguanaval y Casas Grandes. Otras son de tamaño reducido, como las que en conjunto forman el llamado Bolsón de Mapimí en Coahuila, Durango y Chihuahua, o el Bolsón del Salado que abarca los estados de Zacatecas, San Luis Potosí, Nuevo León, Coahuila y Tamaulipas (Rzedowski, 1986).
@@ -95,6 +93,15 @@ Río Aguanaval.- Es el río más importante de la cuenca interior o endorreica. 
 Río del Carmen.- En su nacimiento es conocido como Santa Clara. Antes desembocaba en la Laguna de Patos, pero fue represado junto con otros ríos. Su longitud es de 250 kilómetros.
 
 ####Lagos
+|  Numero | Nombre  | Cuenca km^2  | Capacidad hm^3  |
+|---|---|---|---|
+|  1 | Lago de Chapala  | 1,116  |  8,126 |
+|  2 | Laguna de Cuitzeo  | 306  | 920  |
+|  3 | Lago de Patzcuaro  | 97  | 550  |
+|  4 | Lago de Yuriria  | 80  | 188  |
+|  5 | Laguna Catemaco  | 75  | 454  |
+|  6 | Dr. Nabor Carrillo  | 10  | 12  |
+|  7 | Tequesquitengo  | 8  | 160  |
 
 ###Aquiferos y pozos
 
