@@ -51,6 +51,7 @@ Las bombas hidráulicas de paletas contienen un rotor ranurado, este se encuentr
 Para que las bombas de paletas comiencen a funcionar se requiere una velocidad minima de 400-600rpm para crear la fuerza necesaria para que las paletas se despeguen del  rotor y se adhieran a la superficie interna del anillo, produciendo de esta forma el comienzo del bombeo. Las cámaras de bombeo se forman entre las paletas, rotor, anillo y las 2 placas laterales. 
 
 Debido a que el anillo y el rotor son concéntricos las cámaras van aumentando de tamaño, creando un vacío, generando  así la succión, al llegar a un valor máximo de admisión, este se cierra para trasladar el fluido produciendo asi que estas cámaras vayan disminuyendo de tamaño impulsando el fluido hacia el sistema hidráulico.
+
 ![alt text](http://www.serviciohidraulico.com.mx/bomba_hidraulica_de_paletas.jpg "Bomba de paletas")
 
 
@@ -58,13 +59,14 @@ Debido a que el anillo y el rotor son concéntricos las cámaras van aumentando 
 Las bombas hidráulicas de engranes se usan para bombear aceite de lubricación, las bombas de engranes son bombas de caudal fijo, estas bombas hidráulicas producen flujo al transportar el aceite entre los dientes de dos engranajes acoplados. Uno de ellos es accionado por la flecha de la bomba (motriz), y éste hace girar al otro (conducido). 
 
 Esto produce un vacío en la linea de succión, cuando se separan los dientes, por el aumento del volumen en la cámara de succión. En el mismo momento los dientes se van alejando, llevándose el fluido en la cámara de succión.  La expulsión del fluido ocurre en el extremo opuesto de la bomba por la disminución de volumen que tiene lugar al engranar los dientes separados.
+
 ![alt text](http://www.serviciohidraulico.com.mx/dibujo_bomba_de_engranajes_487330_t0.jpg "Bomba de engranes")
 
 ####Bombas de pistones.
 Las bombas hidráulicas de pistones funcionan, según el principio de un pistón moviéndose alternativamente dentro de un orificio, aspirando o succionando al retraerse el pistón dentro de la cavidad, y expulsando el fluido al pistón irse introduciendo nuevamente dentro de la cavidad.
 Las bombas de pistones se utilizan por su alto rendimiento y porque tienen una eficiencia volumétrica aproximada de 95-98%, esto debido a las tolerancias tan ajustadas de estas bombas, esto las hace mucho mas sensibles a la contaminación que pueda presentar el sistema hidráulico.
+
 ![alt text](http://www.serviciohidraulico.com.mx/bomba_de_pistones.jpg "Bomba de pistones")
- "Principio de Pascal")
 
 *Fuente: Servicio Hidraulico Industrial. Latoneros 102 Col. Trabajadores del Hierro C.P. 02650, México D.F. *
 
