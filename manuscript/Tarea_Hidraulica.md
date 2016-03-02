@@ -7,6 +7,7 @@ La relacion de fuerzas de Pascal se da en la prensa hidraulica, la cual es una m
 Esta maquina es la aplicacion principal del principiuo de Pascal. Consiste de dos cilindros de area diferente conectados entre si por medio de una manguera o tubo en el cual se encuentra un fluido incompresible (principalmente un liquido). *Ver Imagen 1*
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7d/Hydraulic_Force%2C_language_neutral.png "Principio de Pascal")
+**_Imagen 1_**
 
 Segun el principio de Pascal, una presion aplicada al liquido en la columna izquierda se transmitira integramente al liquido de la columna derecha. Por lo que si una fuerza de entrada {$$}F_1{\$$} actua sobre un embolo de area {$$}A_1{\$$}, causara una fuerza de salida {$$}F_2{\$$}, que actua sobre un embolo de area {$$}A_2{\$$} de modo que:
 {$$}(p_1)=(p_2){/$$}
