@@ -74,20 +74,20 @@ Las bombas de pistones se utilizan por su alto rendimiento y porque tienen una e
 ####Pelton
 Una turbina Pelton es uno de los tipos más eficientes de turbina hidráulica. Es una turbomáquina motora, de flujo transversal, admisión parcial y de acción. Consiste en una rueda (rodete o rotor) dotada de cucharas en su periferia, las cuales están especialmente realizadas para convertir la energía de un chorro de agua que incide sobre las cucharas.  Las turbinas Pelton están diseñadas para explotar grandes saltos hidráulicos de bajo caudal. Las centrales hidroeléctricas dotadas de este tipo de turbina cuentan, en su mayoría, con una larga tubería llamada galería de presión para trasportar al fluido desde grandes alturas, a veces de hasta más de 1500 metros. Al final de la galería de presión se suministra el agua a la turbina por medio de una o varias válvulas de aguja, también llamadas inyectores, los cuales tienen forma de tobera para aumentar la velocidad del flujo que incide sobre las cucharas.
 
-![alt text](https://es.wikipedia.org/wiki/Turbina_Pelton#/media/File:Peltonturbine-1.jpg "Turbina Pelton")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d9/Peltonturbine-1.jpg "Turbina Pelton")
 
 ####Francis
 La turbina Francis fue desarrollada por James B. Francis. Se trata de una turbomáquina motora a reacción y de flujo mixto.
 Las turbinas Francis son turbinas hidráulicas que se pueden diseñar para un amplio rango de saltos y caudales, siendo capaces de operar en rangos de desnivel que van de los dos metros hasta varios cientos de metros. Esto, junto con su alta eficiencia, ha hecho que este tipo de turbina sea el más ampliamente usado en el mundo, principalmente para la producción de energía eléctrica en centrales hidroeléctricas.
 
-![alt text](https://es.wikipedia.org/wiki/Turbina_Francis#/media/File:M_vs_francis_schnitt_1_zoom.jpg "Turbina Francis")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/5f/M_vs_francis_schnitt_1_zoom.jpg "Turbina Francis")
 
 ####Kaplan
 Las turbinas Kaplan son uno de los tipos más eficientes de turbinas de agua de reacción de flujo axial, con un rodete que funciona de manera semejante a la hélice del motor de un barco, y deben su nombre a su inventor, el austriaco Viktor Kaplan. Se emplean en saltos de pequeña altura y grandes caudales. Las amplias palas o álabes de la turbina son impulsadas por agua a alta presión liberada por una compuerta.
 Los álabes del rodete en las turbinas Kaplan son siempre regulables y tienen la forma de una hélice, mientras que los álabes de los distribuidores pueden ser fijos o regulables. Si ambos son regulables, se dice que la turbina es una turbina Kaplan verdadera; si solo son regulables los álabes del rodete, se dice que la turbina es una turbina Semi-Kaplan. Las turbinas Kaplan son de admisión axial, mientras que las semi-Kaplan puede ser de admisión radial o axial.
 Para su regulación, los álabes del rodete giran alrededor de su eje, accionados por unas manijas, que son solidarias a unas bielas articuladas a una cruceta, que se desplaza hacia arriba o hacia abajo por el interior del eje hueco de la turbina. Este desplazamiento es accionado por un servomotor hidráulico, con la turbina en movimiento.
 
-![alt text](https://es.wikipedia.org/wiki/Turbina_Kaplan#/media/File:S_vs_kaplan_schnitt_1_zoom.jpg "Turbina Kaplan")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/16/S_vs_kaplan_schnitt_1_zoom.jpg "Turbina Kaplan")
 
 
 ##Tiz
