@@ -42,6 +42,21 @@ Con flujo lamninar, la magnitud de la perdida de friccion es independiente del g
 Si se utiliza el simbolo {$$}H_L{/$$} para designar todas las perdidas de carga en una linea de tuberia en la que haya flujo estacionario y continuo, se tendra:
 {$$}(H_L)=(h_b)+(h_g)+(h_e)+(h_c)+(h_f){/$$}
 
+###Perdida de carga debido a la friccion de la tuberia.
+Este analisis se aplica a todos los liquidos y aproximadamente a los gases (cuando la caida de presion no es mayor del 10%). 
+Hay ciertas leyes generales, basadas en la observacion y los experimentos, que parecen regir la friccion de los fluidos de las tuberias y se expresan en todas las formulas de tuberias aceptadas en general. En forma breve esas leyes son:
+
+1. Las perdidas de friccion en un flujo turbulento aumentan en general con la aspereza de la tuberia.
+2. La perdida de friccion es directamente propocional al area de la superficie mojada, o sea, a {$$}Pi()*D*L{/$$}
+3. Las perdidas de friccion varian en proporcion inversa a alguna potencia del diametro de la tuberia, por ejemplo, como {$$}1/D^(x){/$$}
+4. Las perdidas de friccion varian como alguna potencia de la velocidad, osea, como {$$}V^(n){/$$} 
+5. Las perdidas de friccion, varian como alguna potencia de la razon de la viscocidad a la densidad del fluido, o sea, como {$$}(mu/rho)^(r){/$$}.
+
+Estas leyes despues de varios factores y sustituciones se llega a que, las perdidas de friccion son iguales a:
+
+{$$} h_f = f * L/D * V^(2)/2g {/$$}
+
+
 *Fuente: King, H., Wisler, C. & Woodburn, J. (1980). Hidraúlica. México: Trillas.*
 
 ###Motores/Bombas Hidraulicas
