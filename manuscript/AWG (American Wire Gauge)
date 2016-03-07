@@ -1,0 +1,13 @@
+#Calibres de cable
+##Mike
+
+### AWG (American Wire Gauge)
+El calibre de alambre estadounidense (en inglés american wire gauge o AWG) es una referencia de clasificación de diámetros. En muchos sitios de Internet y también en libros y manuales, especialmente de origen norteamericano, es común encontrar la medida de conductores eléctricos (cables) indicados con la referencia AWG. Cuanto más alto es este número, más delgado es el alambre. El alambre de mayor grosor (AWG más bajo) es menos susceptible a la interferencia, posee menos resistencia interna y, por lo tanto, soporta mayores corrientes a distancias más grandes.
+
+La escala fue creada en 1857 por la compañía J.R. Brown & Sharpe de Providence (Rhode Island), por tal motivo la escala también fue conocida como Brown and Sharpe Gauge. Lucien Sharpe presentó la idea ante la Asociación Waterbury Brass, y ésta fue adoptada rápidamente durante febrero del mismo año por los ocho mayores fabricantes de cable en Estados Unidos, proporcionando una estandarización de la medida. Muy pronto, su uso se extendió a gran parte de los países latinoamericanos.
+
+La escala obedece prácticamente a los pasos sucesivos del proceso de estirado del alambre que existía en 1857. Se seleccionaron los diámetros más grueso, de 0,4600 pulgadas (calibre 4/0), y más delgado, de 0,0050 pulgadas (calibre 36); se determinaron 39 dimensiones entre dichos calibres. De tal suerte, que la razón entre un diámetro y el siguiente está dada por la progresión geométrica:
+{$$} \sqrt[39]{\frac{0,4600}{0,0050}}=\sqrt[39]{92}=1,1229 {/$$}
+Es decir, la razón entre dos diámetros consecutivos en la escala AWG es constante e igual a 1,1229.
+Por esta razón los pasos de los calibres con respecto al diámetro son regresivos, pues corresponden en realidad a los pasos del proceso de estirado del alambre. No obstante, para los calibres de mayor grosor, se optó la solución de identificarlos directamente por el área en el sistema inglés de medida:
+Mil, para los diámetros, es decir una milésima de pulgada. Circular mil, para las áreas, unidad que representa el área del círculo de un mil de diámetro, es decir, 0,7854 mils cuadrados. kcmil, para secciones de mayor área. Éstas siglas también eran conocidas hasta finales del siglo XX como MCM o KCM.
