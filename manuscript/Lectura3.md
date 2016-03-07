@@ -18,7 +18,7 @@ La reaccion de sintesis de celulosa tiene la siguiente notacion.
 ##Tiz ¿De donde proviene la masa de los árboles?
 Se podría decir que el proceso más importante de la Tierra, es el proceso de la fotosíntesis. A partir de dicho proceso se produce
 la mayoría de la materia orgánica de nuestro planeta y se garantiza la alimentación de los seres vivos. 
-Este proceso químico/biológico depende de tres aspectos principalmente:
+Este proceso químico/biológico depende de tres aspectos principalmente:  
 1. Del mismo proceso de la fotosíntesis, las plantas verdes producen alimento para si mismas, y para alimentar a los seres hervíboros.  
 2. Para que el proceso de fotosíntesis exista es necesario utilizar el CO2 disponible en el ambiente, producido en parte por los seres
 vivos, por los procesos de putrefaccion y descomposición naturales, y por la contaminación ambiental ocasionada por el ser humano.  
