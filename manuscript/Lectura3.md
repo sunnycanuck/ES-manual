@@ -15,7 +15,7 @@ La reaccion de sintesis de celulosa tiene la siguiente notacion.
 
 
 
-##Tiz
+##Tiz ¿De donde proviene la masa de los árboles?
 Se podría decir que el proceso más importante de la Tierra, es el proceso de la fotosíntesis. A partir de dicho proceso se produce
 la mayoría de la materia orgánica de nuestro planeta y se garantiza la alimentación de los seres vivos. 
 Este proceso químico/biológico depende de tres aspectos principalmente:
