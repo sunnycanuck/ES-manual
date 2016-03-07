@@ -23,7 +23,8 @@ Este proceso químico/biológico depende de tres aspectos principalmente:
 2. Para que el proceso de fotosíntesis exista es necesario utilizar el CO2 disponible en el ambiente, producido en parte por los seres
 vivos, por los procesos de putrefaccion y descomposición naturales, y por la contaminación ambiental ocasionada por el ser humano.  
 3. Gracias a este proceso, se libera oxígeno al medio ambiente.  
-En la figura 1, se puede observar de manera sencilla como es que este proceso se lleva a cabo, y lo que resulta de dicho proceso.
+En la figura 1, se puede observar de manera sencilla como es que este proceso se lleva a cabo, y lo que resulta de dicho proceso.  
+
 ![fotosintesis](https://cloud.githubusercontent.com/assets/16943736/13577792/3517f620-e449-11e5-9ace-6fa042f86a59.jpg)
 
 A partir de la glucosa, se producen la sacarosa, el almidón, la celulosa y la lignina o madera. 
