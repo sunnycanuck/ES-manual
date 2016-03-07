@@ -1,4 +1,4 @@
-#3
+#3 DE DONDE PROVIENE LA MASA DE LOS ÁRBOLES
 
 ##Mike
 
@@ -12,3 +12,15 @@ Las plantas verdes producen en sus hojas las sustancias para su crecimiento nedi
 La reaccion de sintesis de celulosa tiene la siguiente notacion.
 
 ![alt text](http://i63.tinypic.com/25tazv9.jpg "Fotosintesis")
+
+
+
+##Tiz
+Se podría decir que el proceso más importante de la Tierra, es el proceso de la fotosíntesis. A partir de dicho proceso se produce
+la mayoría de la materia orgánica de nuestro planeta y se garantiza la alimentación de los seres vivos. 
+Este proceso químico/biológico depende de tres aspectos principalmente:
+1. Del mismo proceso de la fotosíntesis, las plantas verdes producen alimento para si mismas, y para alimentar a los seres hervíboros.
+2. Para que el proceso de fotosíntesis exista es necesario utilizar el CO2 disponible en el ambiente, producido en parte por los seres
+vivos, por los procesos de putrefaccion y descomposición naturales, y por la contaminación ambiental ocasionada por el ser humano.
+3. Gracias a este proceso, se libera oxígeno al medio ambiente.
+En la figura 1, se puede observar de manera sencilla como es que este proceso se lleva a cabo, y lo que resulta de dicho proceso.
