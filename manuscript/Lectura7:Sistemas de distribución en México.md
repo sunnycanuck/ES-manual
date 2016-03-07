@@ -26,6 +26,7 @@ con:
 Las ventas de gasolina realizadas por la red comercial son en promedio de 792.6 miles de barriles por día, de ellos el 92.9% es
 de gasolina PEMEX Magna  y el 7.1% es de PEMEX Premium. Las ventas de Diesel son de 332 miles de barriles por día.  
 La red de estaciones de servico ha estado sujeta desde Marzo de 1992 a un proceso de modernización de sus instalaciones para 
-garantizar la seguridad y el cumplimiento de las normatividades en materia ambiental. 
+garantizar la seguridad y el cumplimiento de las normatividades en materia ambiental.  
+
 Fuente: *http://www.ref.pemex.com/index.cfm?action=content&sectionid=11&catid=19,Última Modificación: 07/01/2016 a las 00:00 por PEMEX
 Refinación*
