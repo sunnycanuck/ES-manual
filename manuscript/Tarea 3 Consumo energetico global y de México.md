@@ -29,3 +29,25 @@ se muestra el consumo anual de México durante años anteriores.
 | 164.77  | 224.6  |  212.3 |
 
 *Fuente CIA World Factbook*
+
+**Suministro de energía alimentaria (SEA)**
+
+El suministro de energía alimentaria en México (en Kilocalorías por día) se muestra en la siguiente tabla.
+
+|  1965 |  2000|  2030 |
+|---|---|---|
+| 2626  | 3151  |  --- |
+
+
+*Fuente FAO*
+
+**Consumo global anual de energía **
+
+El consumo global de energía durante el año 2012 fue de 19.71 trillones de Kw/h *CIA World Factbook*
+
+**Energía solar en México**
+
+En 2014 la energía solar fotovoltaíca registro un estimado de 40 GW instalados, con una capacidad mundial de
+117 GW *(REN 21)*.
+La asociación de energía solar (ANES), ubica a México dentro de los cinco paises con mayor potencial para explotar esta fuente
+de energía, ya que México recibe en promedio $5 KWh/m^{2}$.
