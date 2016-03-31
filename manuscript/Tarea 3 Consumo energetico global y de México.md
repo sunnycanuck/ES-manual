@@ -50,4 +50,4 @@ El consumo global de energía durante el año 2012 fue de 19.71 trillones de Kw/
 En 2014 la energía solar fotovoltaíca registro un estimado de 40 GW instalados, con una capacidad mundial de
 117 GW *(REN 21)*.
 La asociación de energía solar (ANES), ubica a México dentro de los cinco paises con mayor potencial para explotar esta fuente
-de energía, ya que México recibe en promedio $5 KWh/m^{2}$.
+de energía, ya que México recibe en promedio $$5 KWh/m^{2}$$.
