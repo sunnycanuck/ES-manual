@@ -122,6 +122,8 @@ La explicación del principio de Arquímides consta de dos partes, como se obser
 1. El estudio de las fuerzas sobre una porción de fluido en equilibrio con el resto del fluido.
 2. La sustitución de dicha porción de fluido por un cuerpo sólido de la misma forma y dimensiones. 
 
+![arquimedes_1](https://cloud.githubusercontent.com/assets/16943736/14256620/ba70780e-fa4e-11e5-973b-093a7df687ea.gif)
+
 
 
 
