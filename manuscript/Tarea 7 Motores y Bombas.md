@@ -107,7 +107,7 @@ Para su regulación, los álabes del rodete giran alrededor de su eje, accionado
 *Fuentes: Apuntes de energia hidraulica, 2011*
 
 ##Tiz
-**Relación de fuerzas en hidraulica**
+**Relación de fuerzas en hidráulica**
 El estudio de la dinámica de los fluidos fue bautizado como hidrodinámica por el físico suizo Daniel Bernoulli, quien en 1738 encontró
 la relación entre la presión, la altura y la velocidad de un fluído ideal. 
 
@@ -123,6 +123,20 @@ La explicación del principio de Arquímides consta de dos partes, como se obser
 2. La sustitución de dicha porción de fluido por un cuerpo sólido de la misma forma y dimensiones. 
 
 ![arquimedes_1](https://cloud.githubusercontent.com/assets/16943736/14256620/ba70780e-fa4e-11e5-973b-093a7df687ea.gif)
+
+*Principio de Pascal*
+
+La presión ejercida por un fluido incompresible y en equilibrio dentro de un recipiente de paredes indeformables se transmite con la
+misma intensidad en todas las direcciones y en todos los puntos del fluidos. El principio de Pascal, fundamenta el funcionamiento de
+las denominadas prensas hidráulicas.
+
+*Funcionamiento de la prensa hidráulica*
+
+El recipiente de la figura consta de dos cuellos de diferente sección cerrados con sendos tapones ajustados y capaces de res-balar libremente dentro de los tubos (pistones). Si se ejerce una fuerza (F1) sobre el pistón pequeño, la presión ejercida se transmite, tal como lo observó Pascal, a todos los puntos del fluido dentro del recinto y produce fuerzas perpendiculares a las paredes. En particular, la porción de pared representada por el pistón grande (A2) siente una fuerza (F2) de manera que mientras el pistón chico baja, el grande sube. La presión sobre los pistones es la misma, No así la fuerza!
+Como p1=p2 (porque la presión interna es la misma para todos lo puntos)
+Entonces: F1/A1 es igual F2/A2 por lo que despejando un termino se tiene que: F2=F1.(A2/A1)
+Si, por ejemplo, la superficie del pistón grande es el cuádruple de la del chico, entonces el módulo de la fuerza obtenida en él será el cuádruple de la fuerza ejercida en el pequeño.
+
 
 
 
