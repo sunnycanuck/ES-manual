@@ -165,6 +165,20 @@ $\fracc{ V^2 \roh}{2} + P + \roh g z$
 
 La relación de estos tres principios se fundamenta en que todos tienen que ver con los fluidos, ya sea en movimiento o en reposo. 
 
+**Turbinas Hidráulicas**
+
+Es una máquina hidráulica que contiene una serie de álabes fijos (distribuidor), y otra serie de álabes móviles (rueda, rodete, 
+motor). Las turbinas hidráulicas se clasifican en:
+
+1. Turbinas de acción o de impulso: En este tipo de turbinas el agua sale del distribuidor a la presión atmosférica, y llega al rodete
+   con la misma presión, en estas turbinas, toda la energía potencial del salto se transmite al rodete en forma de energía cinética. 
+2. Turbinas de reacción: El agua sale del distribuidor con una cierta presión que va disminuyendo a medida que el agua atraviesa los
+  los álabes del rodete, de forma que a la salida, la presión puede ser negativa o incluso nula. En estas turbinas el agua circula a 
+  presión en el distribuidor y en el rodete, y por lo tanto, la energia potencial del salto se transforma, una parte en energía
+cinética y la otra en energía de presión. 
+
+
+
 
 
 
