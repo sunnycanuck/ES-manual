@@ -148,6 +148,25 @@ La prensa hidráulica, al igual que las palancas no multiplica la energía. El v
 se distribuye en el pistón de mayor tamaño, de modo que el producto de la fuerza por el desplazamiento (Trabajo) es igual en ambos
 lados. 
 
+*Teorema de Bernoulli*
+
+Describe el comportamiento de un fluido (líquido o gas) moviendose a lo largo de una corriente de agua. Expresa que en un fluido
+ideal (sin viscosidad ni rozamiento) en regimen de circulación por un camino cerrado, la energía que posee el fluido permanece
+constante en todo el recorrido. La energía de un fluido en movimiento consta de tres componentes:
+
+1. Cinética: Es la energía que posee el fluido debido al movimiento.
+2. Potencial o gravitacional: Es la energía debida a la altitud que posee el fluido.
+3. Energía de presión: Energía que un fluido contiene debida a la presión que contiene. 
+
+La ecuación mostrada a continuación se conoce como "Ecuación de Bernoulli", y consta de las tres componentes mencionadas 
+anteriormente:
+
+$\fracc{ V^2 \roh}{2} + P + \roh g z$
+
+La relación de estos tres principios se fundamenta en que todos tienen que ver con los fluidos, ya sea en movimiento o en reposo. 
+
+
+
 
 
 
