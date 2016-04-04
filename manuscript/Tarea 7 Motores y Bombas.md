@@ -177,6 +177,13 @@ motor). Las turbinas hidráulicas se clasifican en:
   presión en el distribuidor y en el rodete, y por lo tanto, la energia potencial del salto se transforma, una parte en energía
 cinética y la otra en energía de presión. 
 
+En la siguiente figura se presenta la clasificación de las turbinas hidráulicas, asi como los tipos de turbinas que pertenecen a cada
+una de ellas. 
+
+
+[Presentación1.pdf](https://github.com/sunnycanuck/ES-manual/files/203244/Presentacion1.pdf)
+
+
 
 
 
