@@ -132,10 +132,12 @@ las denominadas prensas hidráulicas.
 
 *Funcionamiento de la prensa hidráulica*
 
-El recipiente de la figura consta de dos cuellos de diferente sección cerrados con sendos tapones ajustados y capaces de res-balar libremente dentro de los tubos (pistones). Si se ejerce una fuerza (F1) sobre el pistón pequeño, la presión ejercida se transmite, tal como lo observó Pascal, a todos los puntos del fluido dentro del recinto y produce fuerzas perpendiculares a las paredes. En particular, la porción de pared representada por el pistón grande (A2) siente una fuerza (F2) de manera que mientras el pistón chico baja, el grande sube. La presión sobre los pistones es la misma, No así la fuerza!
-Como p1=p2 (porque la presión interna es la misma para todos lo puntos)
-Entonces: F1/A1 es igual F2/A2 por lo que despejando un termino se tiene que: F2=F1.(A2/A1)
-Si, por ejemplo, la superficie del pistón grande es el cuádruple de la del chico, entonces el módulo de la fuerza obtenida en él será el cuádruple de la fuerza ejercida en el pequeño.
+El recipiente de la figura consta de dos secciones cerradas con distinto volumen. Si se ejerce una fuerza (F1) sobre el pistón
+pequeño, la presión ejercida se transmite a todos los puntos del fluido dentro del recinto y produce fuerzas perpendiculares a las
+paredes. En particular, la porción de pared representada por el pistón grande (A2) siente una fuerza (F2) de manera que, mientras el
+pistón chico baja, el grande sube. La presión sobre los pistones es la misma, pero no la fuerza.
+Como p1=p2 (porque la presión interna es la misma para todos lo puntos, principio de Pascal).
+Entonces: F1/A1 es igual F2/A2 por lo que despejando para un término cualesquiera, se tiene que: F2=F1.(A2/A1)
 
 
 
