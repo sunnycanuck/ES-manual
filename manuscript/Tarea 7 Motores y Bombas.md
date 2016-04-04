@@ -180,8 +180,7 @@ cinética y la otra en energía de presión.
 En la siguiente figura se presenta la clasificación de las turbinas hidráulicas, asi como los tipos de turbinas que pertenecen a cada
 una de ellas. 
 
-
-[Presentación1.pdf](https://github.com/sunnycanuck/ES-manual/files/203244/Presentacion1.pdf)
+![clasificacion turbinas](https://cloud.githubusercontent.com/assets/16943736/14261984/154eb632-fa68-11e5-99d1-8a2832bb8c29.jpg)
 
 
 
