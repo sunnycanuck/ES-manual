@@ -107,3 +107,24 @@ Para su regulación, los álabes del rodete giran alrededor de su eje, accionado
 *Fuentes: Apuntes de energia hidraulica, 2011*
 
 ##Tiz
+**Relación de fuerzas en hidraulica**
+El estudio de la dinámica de los fluidos fue bautizado como hidrodinámica por el físico suizo Daniel Bernoulli, quien en 1738 encontró
+la relación entre la presión, la altura y la velocidad de un fluído ideal. 
+
+*¿Cuál es la relación que poseen Pascal, Bernoulli y Arquímides?*
+Todos investigaron y establecieron teorías sobre los fluidos, dichos principios tienen distintas aplicaciones en la actualidad.
+
+*Principio de Arquímides*
+
+Afirma que todo cuerpo sumergido en un fluido ideal experimenta un empuje vertical y hacia arriba igual al peso del fluido desalojado.
+La explicación del principio de Arquímides consta de dos partes, como se observa en la figura 1:
+
+1. El estudio de las fuerzas sobre una porción de fluido en equilibrio con el resto del fluido.
+2. La sustitución de dicha porción de fluido por un cuerpo sólido de la misma forma y dimensiones. 
+
+
+
+
+
+
+
