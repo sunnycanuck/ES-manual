@@ -137,7 +137,11 @@ pequeño, la presión ejercida se transmite a todos los puntos del fluido dentro
 paredes. En particular, la porción de pared representada por el pistón grande (A2) siente una fuerza (F2) de manera que, mientras el
 pistón chico baja, el grande sube. La presión sobre los pistones es la misma, pero no la fuerza.
 Como p1=p2 (porque la presión interna es la misma para todos lo puntos, principio de Pascal).
-Entonces: F1/A1 es igual F2/A2 por lo que despejando para un término cualesquiera, se tiene que: F2=F1.(A2/A1)
+Entonces: F1/A1 es igual F2/A2 por lo que despejando para un término cualesquiera, se tiene que: F2=F1.(A2/A1).
+
+![pascal](https://cloud.githubusercontent.com/assets/16943736/14258335/f2d579bc-fa56-11e5-9773-90274779a480.gif)
+
+
 
 
 
