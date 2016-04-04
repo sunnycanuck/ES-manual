@@ -1,8 +1,44 @@
 ## Sistemas de distribución de energía en México
 
 ##Mike
+### Procesamiento, almacenamiento y transporte de gas.
+#### La industria en Mexico. Infraestructura.
+Pemex Gas y Petroquimica Basica (PGPB) cuenta con 10 complejos procesadores de gas, de ellos, en dichos complejos existe un total de 68 plantas de distintos tipos.
 
+Tabla.
+Imagen.
 
+Pemex operaba 11 estaciones de compresion, de las cuales 10 son propiedad de PGPB y una de PEP la estacion Cd. Pemex. La capacidad de compresion instalada de Pemex tiene una potencia de 137,510 HP de seis estaciones de compresion de privados. Las 17 estaciones de compresion acumularon una capacidad de transporte total de 431,360 HP.
+
+Tabla.
+
+Existen en Mexico 15 interconexiones con Estados Unidos, de las cuales ocho pertenecen a sistemas aislados a los que no puede llegar la produccion nacinal, y las siete restantes los ductos de Gulf Terra, Kinder Morgan, Tetco y Tennessee, pueden ser utilizados en forma bidireccional para exportar un volumen maximo de gas de 750mmpcd hacia el sur de Texas.
+
+Mapa.
+
+La importacion del Gas Natural Licuado (GNL) en Mexico comenzo durante agosto de 2006 cuando se recibio el primer cargamento de GNL proveniente de Nigeria en la Terminal de GNL en Altamira. La operacion comercial de la terminal comenzo el dia 30 de septiembre de 2006, y el gas es utilizado unicacmente por la CFE para generar electricidad, como resultado de una estrategia de diversificacion de la produccion nacional y una reduccion de la dependencia del gas proveniente de gasoductos de los Estados Unidos.
+
+Mapa.
+
+Existen otros proyectos considerados como potenciales, que podrían consolidarse si se dan las condiciones suficientes para su desarrollo, con probable ubicación en Lázaro Cárdenas (Michoacán), Manzanillo (Colima), Puerto Libertad (Sonora), Topolobampo (Sinaloa) y una terminal costa afuera frente al Estado de Tamaulipas de la empresa El Dorado-Tidelines, este último proyecto asociado a un proyecto de transporte y de almacenamiento subterráneo
+
+Mapa.
+
+En nuestro país la infraestructura de transporte de gas natural está integrada principalmente por el Sistema Nacional de Gasoductos (SNG) y el sistema Naco-Hermosillo, ambos pertenecientes a Pemex Gas y  Petroquímica Básica, así como gasoductos fronterizos en las regiones Noreste y Noroeste, algunos conectados al SNG y otros aislados, estos últimos son propiedad de privados.
+
+El SNG cuenta con una extensión de 8,704 km de longitud y pasa por 18 estados de la República, mientras que el sistema aislado de Naco-Hermosillo se extiende con una longitud de 339 km y está conectado al sur del estado de Arizona en Estados Unidos. Actualmente se permite la participación de la inversión privada en el sector del gas natural.
+
+tabla.
+
+Hoy, PGPB transporta el gas natural a los grandes consumidores, así como a la entrada de las ciudades, mientras que la distribución al interior de éstas, en la mayoría de los casos, está a cargo de empresas privadas de distribución. Las empresas que han recibido permisos de distribución en diversas zonas geográficas del país por parte de la CRE, cuentan con sus propios gasoductos.
+
+El consumo regional de gas natural está estrechamente relacionado con la distribución de la infraestructura, así como con la ubicación de los centros industriales, actividades petroleras, puntos de generación de electricidad y concentración poblacional. Estos factores son los que principalmente han desarrollado el mercado de gas natural en México.
+
+Cabe señalar que, sólo ocho estados de la República Mexicana no presentan consumos de gas natural, los cuales son Baja California Sur, Colima, Guerrero, Morelos, Nayarit, Quintana Roo, Sinaloa y Zacatecas. Existen cinco zonas regionales de mercado: Noroeste, Noreste, Centro-Occidente, Centro y Sur-Sureste.
+
+Tabla.
+
+Mapa.
 
 ##Tiz: Sistemas de distribución de Gasolina/Diesel en México
 Petróleos Mexicanos (PEMEX) es la empresa nacional facultada para realizar la conducción central y dirección estrategica de las actividades que abarca la industria petrolera en México, (en términos de la Constitución). PEMEX tiene la responsabilidad de abastecer el mercado del país de productos derivados de petróleo y gas natural. Cuenta con cuatro organismos especificos para llevar a cabo 
