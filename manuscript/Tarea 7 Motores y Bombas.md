@@ -130,6 +130,7 @@ La presión ejercida por un fluido incompresible y en equilibrio dentro de un re
 misma intensidad en todas las direcciones y en todos los puntos del fluidos. El principio de Pascal, fundamenta el funcionamiento de
 las denominadas prensas hidráulicas.
 
+
 *Funcionamiento de la prensa hidráulica*
 
 El recipiente de la figura consta de dos secciones cerradas con distinto volumen. Si se ejerce una fuerza (F1) sobre el pistón
