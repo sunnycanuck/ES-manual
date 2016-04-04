@@ -107,6 +107,7 @@ Para su regulación, los álabes del rodete giran alrededor de su eje, accionado
 *Fuentes: Apuntes de energia hidraulica, 2011*
 
 ##Tiz
+
 **Relación de fuerzas en hidráulica**
 El estudio de la dinámica de los fluidos fue bautizado como hidrodinámica por el físico suizo Daniel Bernoulli, quien en 1738 encontró
 la relación entre la presión, la altura y la velocidad de un fluído ideal. 
@@ -143,6 +144,9 @@ Entonces: F1/A1 es igual F2/A2 por lo que despejando para un término cualesquie
 
 ![pascal](https://cloud.githubusercontent.com/assets/16943736/14258335/f2d579bc-fa56-11e5-9773-90274779a480.gif)
 
+La prensa hidráulica, al igual que las palancas no multiplica la energía. El volumen del líquido desplazado por el pistón pequeño
+se distribuye en el pistón de mayor tamaño, de modo que el producto de la fuerza por el desplazamiento (Trabajo) es igual en ambos
+lados. 
 
 
 
