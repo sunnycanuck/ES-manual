@@ -182,7 +182,9 @@ una de ellas.
 
 ![clasificacion turbinas](https://cloud.githubusercontent.com/assets/16943736/14261984/154eb632-fa68-11e5-99d1-8a2832bb8c29.jpg)
 
+**Pérdidas en Hidráulica**
 
+![perdidas](https://cloud.githubusercontent.com/assets/16943736/14262525/dc9b0b44-fa6a-11e5-84e9-78b60656c827.jpg)
 
 
 
