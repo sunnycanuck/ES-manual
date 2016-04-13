@@ -3,7 +3,7 @@
 El consumo anual de energia en Mexico es de 8,624.261 petajoules al año segun el balance nacional de energia 2014.
 
 **Consumo per capita**
-Segun cifras del balance nacional de energia 2014 y de INEGI en el ultimo censo, se tiene un total de 72.041 {$$}GJ/(año*habitante){/$$}
+Segun cifras del balance nacional de energia 2014 y de INEGI en el ultimo censo, se tiene un total de 72.041 {$$}GJ/(año*habitante){$$\}
 
 ## Tiz
 El consumo de energía eléctrica mide la producción de las centrales eléctricas y de las plantas de cogeneración, menos
