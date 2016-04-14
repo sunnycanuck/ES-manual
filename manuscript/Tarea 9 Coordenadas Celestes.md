@@ -17,6 +17,10 @@ horario. Dicho ángulo se denomina Acimut.
 Estas coordenadas dependen  del observador. Es decir que en un mismo momento, un astro se observa bajo coordenadas horizontales 
 diferentes por observadores diferentes situados en puntos diferentes de la tierra. Esto significa que dichas coordenadas son locales.
 
+Las figuras siguientes muestran los sistemas de coordenadas horizontales.
+![horizontal](https://cloud.githubusercontent.com/assets/16943736/14536388/f3a6f74e-0226-11e6-8c9f-b5c8daecd4db.jpg)
+
+![horizontal_2](https://cloud.githubusercontent.com/assets/16943736/14536410/18528b94-0227-11e6-8f86-ce6d21ebc624.jpg)
 
 
 ###Coordenadas horarias.
@@ -52,16 +56,24 @@ Ecuador con la esfera celeste.
 Las "coordenadas ecuatoriales absolutas" se basan en la ascensión recta (AR) y en la declinación (delta)(Dec), mientras que las 
 "coordenadas ecuatoriales horarias" se basan en el ángulo horario (H) y en la declinación.
 
+En las siguiente figuras, se muestra el sistema de coordenadas horarias.
+
+![horarias](https://cloud.githubusercontent.com/assets/16943736/14536348/c7465e6a-0226-11e6-979e-ce04e1de4737.jpg)
+
+
 ###Coordenadas ecuatoriales.
 Las coordenadas ecuatoriales (absolutas) son un tipo de coordenadas celestes que determinan la posición de un objeto en la esfera 
-celeste respecto al ecuador celeste y al eccionocio vernal. Se denominan declinacion y ascencion recta y son equivalentes a la altitud
-y longitud geograficas.
+celeste respecto al ecuador celeste y al eccionocio invernal, como se puede apreciar en la figura. Se denominan declinacion y
+ascencion recta y son equivalentes a la altitud y longitud geograficas.
 
 El sol que se ve a dispocisión del movimiento real de la tierra describe una trayectoria aparente sobre la esfera celeste denominada,
 al igual que el plano que la contiene, eclíptica. A la linea perpendicular a dicho plano se le llama eje de la ecliptica con el
 ecuador celeste. 
 
 La linea de equinoccios es la intersección del ecuador con la eclíptica. Se llama punto vernal o punto Aries, al punto donde se proyecta el Sol al pasar del hemisferio Sur al Norte.
+
+![ecuatoriales](https://cloud.githubusercontent.com/assets/16943736/14536296/811016d4-0226-11e6-8046-c9107fad78be.jpg)
+
 
 ###Coordenadas eclípticas
 
@@ -83,6 +95,10 @@ Las dos coordenadas son la longitud celeste, medida sobre la eclíptica a partir
 Hay dos tipos de coordenadas eclípticas: 
 1. Las coordenadas eclípticas geocéntricas.
 2. Las coordenadas eclípticas heliocéntricas.
+
+En la siguiente figura se puede apreciar el sistema de coordenadas eclípticas.
+
+![eclipticas](https://cloud.githubusercontent.com/assets/16943736/14536249/4cbebf34-0226-11e6-851b-5c0737445d88.jpg)
 
 ###Coordenadas galácticas.
 
@@ -108,6 +124,10 @@ cuerpo) respecto a la galaxia. Podemos estimar así las coordenadas galácticas 
 algo está en dirección opuesta a Sagitario, su longitud galáctica será 180 grados. Si algún objeto celeste está cerca de la mancha
 blanquecina tendrá unos pocos grados de latitud galáctica. Con un poco de práctica se puede estimar con un error de unos 5 ó 10 grados
 la longitud y latitud galáctica de cualquier objeto celeste.
+La siguiente figura muestra las coordenadas galácticas.
+
+![galacticas](https://cloud.githubusercontent.com/assets/16943736/14536322/a91b40c2-0226-11e6-954c-ba51cc16cfc7.jpg)
+
 
 A efectos observacionales, la latitud galáctica tiene una importancia fundamental. Cuanto más baja sea la de un objeto, más cerca
 estará del plano galáctico, por lo que estará más oscurecido por la materia interestelar y su estudio resultará más difícil. En los
