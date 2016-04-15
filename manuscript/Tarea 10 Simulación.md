@@ -8,9 +8,7 @@ Las simulaciones mostradas son para las coordenadas especifícas
 de Ensenada, Baja California.
 
 
-[Figure1.pdf](https://github.com/sunnycanuck/ES-manual/files/221637/Figure1.pdf)
-
-[Figure2.pdf](https://github.com/sunnycanuck/ES-manual/files/221641/Figure2.pdf)
-
-[Figure3.pdf](https://github.com/sunnycanuck/ES-manual/files/221643/Figure3.pdf)
+![figure1](https://cloud.githubusercontent.com/assets/16943736/14572974/d6abaf96-0306-11e6-93c1-593b2b0d544b.jpg)
+![figure2](https://cloud.githubusercontent.com/assets/16943736/14572975/d6cfedb6-0306-11e6-9dcd-1d647f711d96.jpg)
+![figure3](https://cloud.githubusercontent.com/assets/16943736/14572976/d718bbd6-0306-11e6-8845-8e0977a0482f.jpg)
 
