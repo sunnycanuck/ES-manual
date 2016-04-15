@@ -1,4 +1,6 @@
-## Tiz And Mike
+## Cálculo de la altura solar, ángulo de incidencia y ángulo acimutal.
+
+### Tiz and Mike
 
 Se realizó la simulación de un programa que calcula
 la altura solar, el ángulo de incidencia y el ángulo
