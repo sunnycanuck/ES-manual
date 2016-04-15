@@ -9,7 +9,7 @@ de Ensenada, Baja California.
 
 El código utilizado para las simulaciones fue el siguiente:
 
-``` %% Geometría Solar para lugares especificos de México
+```%% Geometría Solar para lugares especificos de México
 clc
 clear all
 close all 
@@ -73,7 +73,7 @@ end
     %%  Impresión de figuras
 print -f1 -djpeg
 print -f2 -djpeg 
-print -f3 -djpeg ´´´
+print -f3 -djpeg ```
 
 
 ![figure1](https://cloud.githubusercontent.com/assets/16943736/14572974/d6abaf96-0306-11e6-93c1-593b2b0d544b.jpg)
