@@ -9,8 +9,8 @@ de Ensenada, Baja California.
 
 El código utilizado para las simulaciones fue el siguiente:
 
-```%% Geometría Solar para lugares especificos de México
-clc
+```%% Geometría Solar para lugares especificos de México```
+```clc
 clear all
 close all 
 
