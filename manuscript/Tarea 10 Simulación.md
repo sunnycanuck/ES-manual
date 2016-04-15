@@ -21,16 +21,16 @@ as=[];                                                                          
 tz=[];
 d=[];
 inci=[];
-Hs1=720;                                                                                                                                           % Hora solar en minutos
-gamma=20;                                                                                                                                        % Ángulo de superficie azimutal -180-180
-beta=40;                                                                                                                                              % Ángulo entre el plano y la superficie en cuestión 0<B<180
-omega=0;                                                                                                                                            % Ángulo horario
+Hs1=720;                                                                                                                                                                                   % Hora solar en minutos
+gamma=20;                                                                                                                                                                                   % Ángulo de superficie azimutal -180-180
+beta=40;                                                                                                                                                                                   % Ángulo entre el plano y la superficie en cuestión 0<B<180
+omega=0;                                                                                                                                                                                    % Ángulo horario
 % Para el dia juliano
 
 for n=1:365
 % Llamado de funciones
-[delta]=omega_delta_min_as(n);                                                                                               % Declinación de la superficie
-[theta_z,alpha_s]=Zenit_aSolar_as(lat,omega,delta);                                                          % Ángulo zenit y altitud solar 
+[delta]=omega_delta_min_as(n);                        % Declinación de la superficie
+[theta_z,alpha_s]=Zenit_aSolar_as(lat,omega,delta);    % Ángulo zenit y altitud solar 
 alpha_s= asind(sind(lat)*sind(delta)+cosd(lat)*cosd(delta)*cosd(omega));
 [theta]=Angulo_incidencia_as(delta,lat,beta,gamma,omega);
 inci=[inci(:);theta(:)];
@@ -73,10 +73,9 @@ end
     %%  Impresión de figuras
 print -f1 -djpeg
 print -f2 -djpeg 
-print -f3 -djpeg ```
-
+print -f3 -djpeg
+```
 
 ![figure1](https://cloud.githubusercontent.com/assets/16943736/14572974/d6abaf96-0306-11e6-93c1-593b2b0d544b.jpg)
 ![figure2](https://cloud.githubusercontent.com/assets/16943736/14572975/d6cfedb6-0306-11e6-9dcd-1d647f711d96.jpg)
 ![figure3](https://cloud.githubusercontent.com/assets/16943736/14572976/d718bbd6-0306-11e6-8845-8e0977a0482f.jpg)
-
